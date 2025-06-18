@@ -1,0 +1,338 @@
+# plots and tables 
+
+
+# salary efficiency plot --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+team_totals <- team_data |>
+  select(team, wins, losses, draws, points, goals_for, goals_against)
+
+# join team totals with player table
+salary_performance_totals <- left_join(team_totals, team_data, by = "team")
+
+# create new table with team totals and salary info
+salary_performance_totals <- salary_performance_totals |>
+  group_by(team) |>
+  summarize(
+    total_salary = sum(annual_wage_usd, na.rm = TRUE),
+    total_xg = sum(xg, na.rm = TRUE),
+    avg_age = mean(age, na.rm = TRUE),
+    avg_salary = mean(annual_wage_usd, na.rm = TRUE),
+    wins = first(wins),  
+    losses = first(losses),
+    draws = first(draws),
+    points = first(points),
+    goals_for = first(goals_for),
+    goals_against = first(goals_against),
+    salary_efficiency = ((points)/(total_salary/1000000)),
+    avg_salary_efficiency = ((points)/avg_salary))
+
+
+# finding r squared value for coorelation between average age and salary efficiency
+# then identify residuals
+model <- lm(salary_efficiency ~ avg_age, data = salary_performance_totals)
+r_squared <- summary(model)$r.squared
+salary_performance_totals$residuals <- resid(model)
+salary_performance_totals$outlier <- abs(salary_performance_totals$residuals) > 1.7
+
+
+# create scatter plot of each team based on salary efficiency and average age
+# color residuals and scale point size based on salary
+ggplot(salary_performance_totals, 
+       aes(x = avg_age, y = salary_efficiency, size = total_salary)) +
+  geom_point(data = subset(salary_performance_totals, !outlier),
+             color = "black", fill = "darkblue", shape = 21, alpha = 0.5, stroke = 1.5) +
+  geom_point(data = subset(salary_performance_totals, outlier),
+             color = "red", fill = "darkblue", shape = 21, stroke = 1.5, alpha = .7,
+             show.legend = FALSE) +
+  geom_text_repel(aes(label = team), size = 3, max.overlaps = 30,  
+                  position = position_nudge_repel(x = 0, y = -.2)) +
+  scale_y_continuous(labels = scales::label_comma()) +
+  scale_size_continuous(range = c(1, 8), labels = scales::dollar) +
+  labs(
+    x = "Average Age",
+    y = "Points per $M Salary",
+    size = "Total Salary ($M)") +
+  theme_classic() +
+  theme(
+    panel.grid.major = element_line(colour = "grey90", linewidth = 0.2),
+    panel.grid.minor = element_line(colour = "grey90", linewidth = 0.2),
+    plot.title = element_text(size = 20), 
+    text = element_text(family = "serif")) 
+
+
+
+# plot showing actual goals scored vs. expected goals scored colored by average age player age on team. Assesses finishing abilities of teams given player age. ----------------------------------------------------------
+team_age <- player_data |>
+  filter(!is.na(age)) |> # filter out players with missing age data
+  select(player, team, age) |> # select desired columns
+  group_by(team) |>    # group by team
+  summarize(
+  med_age = median(age, na.rm = TRUE)) # find median age
+
+# joining with team data
+all_team <-  full_join(team_data, team_age, by = "team")
+
+# create plot showing expect goals and actual goals
+ggplot(data = all_team, 
+       mapping = aes(x = xg, y = goals_for)) +  
+  geom_point(shape = 21, size = 5, aes(fill = med_age)) +  # color by median age
+  geom_abline(linetype = 3) +
+  paletteer::scale_fill_paletteer_c("ggthemes::Orange-Blue Diverging", direction = -1) +
+  ggrepel::geom_text_repel(mapping = aes(label = team), size = 3) +
+  labs(
+    x = "Expected Goals",
+    y = "Actual Goals",
+    fill = "Median Age") +  
+  theme_classic() +
+  theme(
+    panel.grid.major = element_line(colour = "grey90", linewidth = 0.2),
+    panel.grid.minor = element_line(colour = "grey90", linewidth = 0.2),
+    plot.title = element_text(size = 20), 
+    text = element_text(family = "serif"))
+
+
+# world map showing median age of players that debuted in the MLS in 2022 based on their country of origin ------------------------------------------------------------------------------------------------------------------
+
+# create a world map
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+# select desired statistics from player debut data set
+median_age_debut <- debut_stats |>
+  select(age, nationality) |>
+  group_by(nationality) |>
+  summarize(
+    median_age = median(age, na.rm = TRUE)) |>
+    ungroup()
+
+# assign countries treated as individual by FIFA to UK to match naming conventions
+# that are used in rnaturualearth mapping
+median_age_debut_cleaned <- median_age_debut |>
+  mutate(nationality = case_when(
+    nationality %in% c("England", "Scotland", "Wales", "Northern Ireland") ~ "United Kingdom",
+    TRUE ~ nationality))
+
+# fix other naming convention discrepencies 
+median_age_debut_cleaned <- median_age_debut_cleaned |>
+  mutate(nationality = case_when(
+    nationality == "Bosnia & Herzegovina" ~ "Bosnia and Herz.",
+    nationality == "Cape Verde" ~ "Cabo Verde",
+    nationality == "Congo - Kinshasa" ~ "Dem. Rep. Congo",
+    nationality == "Curaço" ~ "Curacao",
+    nationality == "Côte d’Ivoire" ~ "Côte d'Ivoire",
+    nationality == "South Sudan" ~ "South Sudan",  
+    nationality == "Dominican Republic" ~ "Dominican Rep.",
+    nationality == "United States" ~ "United States of America",
+    TRUE ~ nationality))
+
+# join world map data with debuting player data
+world_data_debut <- world |>
+  left_join(median_age_debut_cleaned, by = c("name" = "nationality"))
+
+# world map of median age of player at time of their debut in the MLS
+ggplot(world_data_debut) +
+  geom_sf(aes(fill = median_age), color = "black", size = 0.1) +
+ scale_fill_paletteer_c("grDevices::Lajolla", na.value = "gray95") +
+  theme_minimal() +
+  theme(
+    panel.background = element_rect(fill = "azure2"),
+    plot.title = element_text(size = 15), 
+    text = element_text(family = "serif")) +
+  labs(fill = "Age") +
+  coord_sf(ylim = c(-60, 90), expand = FALSE)
+
+
+# radar plot comparing offensive and defensive abilities of MLS players (age 25 and under) from Latin America compared to those from the US and Canada ----------------------------------------------------------------------
+
+# table of countries in the MLS
+mls_countries <- player_data |>
+  filter(fifa_abbr %in% c("USA", "CAN"))
+
+# table of latin american countries
+americas_non_mls <- player_data |>
+  filter(fifa_abbr %in% c("ARG","BOL", "BRA", "CHI", "COL", "MEX", "BLZ", "CRC", 
+                           "SLV", "GUA", "HON", "NCA", "PAN", "AIA", "ATG", "ARU", "BAH", "BRB", "BER",
+                           "BOE", "VGB", "CAY", "CUB", "CUW", "DMA", "DOM", "GUF",
+                           "GRN", "GLP", "GUY", "HAI", "JAM", "MTQ", "MSR", "PUR",
+                           "SKN", "LCA", "SMN", "VIN", "SMA", "SUR", "TRI", "TCA", "VIR", "ECU",
+                           "PAR", "PER", "URU", "VEN"))
+
+# calculate averages for mls
+mls_avg <- mls_countries |>
+  filter(matches_played > 5 & age <= 25) |>
+  select(goals, ast, xg, xg_asst, gca, pk_att, sec_chance_sca, tackles_won, att_3rd_tackles, shots_blocked, pass_blocks, interceptions, defensive_sca, defensive_gca) |>
+  summarize(across(everything(), mean, na.rm = TRUE))
+
+
+# calculate averages for non mls group
+americas_non_mls_avg <- americas_non_mls |>
+  filter(matches_played > 5 & age <= 25) |>
+  select(goals, ast, xg, xg_asst, gca, pk_att, sec_chance_sca, tackles_won, att_3rd_tackles, shots_blocked, pass_blocks, interceptions, defensive_sca, defensive_gca) |>
+  summarize(across(everything(), mean, na.rm = TRUE)) 
+
+
+# create a group column and combine the data frames
+mls_avg <- mls_avg |> mutate(demographic = "US and Canada")
+americas_non_mls_avg <- americas_non_mls_avg |> mutate(demographic = "Latin America")
+
+# combine both tables
+combined_data <- bind_rows(mls_avg, americas_non_mls_avg)
+
+
+# plot 1: offensive performance
+radar1 <- ggRadar(
+  data = combined_data |>
+    select(goals, ast, xg, xg_asst, gca, sec_chance_sca, pk_att, demographic) |>
+    rename(assists = ast, "PK attempts" = pk_att, "expected goals" = xg, "expected assists" = xg_asst, "goal creating 
+    actions" = gca, "2nd 
+           chance SCA" = sec_chance_sca),
+  mapping = aes(group = demographic, color = demographic, fill = demographic),
+  rescale = FALSE,
+  size = 4,
+  alpha = .3) +
+  scale_color_manual(values = c("US and Canada" = "darkblue", "Latin America" = "darkred")) +
+  scale_fill_manual(values = c("US and Canada" = "darkblue", "Latin America" = "darkred")) +
+  theme_light() +
+  theme(text = element_text(family = "serif"))
+
+# plot 2: defensive performance
+radar2 <- ggRadar(
+  data = combined_data |>
+    select(pass_blocks, shots_blocked, defensive_gca, defensive_sca, interceptions, tackles_won, att_3rd_tackles, demographic) |>
+    rename("passes blocked" = pass_blocks, "shots
+blocked" = shots_blocked, "defensive GCA" = defensive_gca, "defensive SCA" = defensive_sca, "tackles 
+won" = tackles_won, "attacking 3rd tackles" = att_3rd_tackles),
+  mapping = aes(group = demographic, color = demographic, fill = demographic),
+  rescale = FALSE,
+  size = 4,
+  alpha = .3) +
+  scale_color_manual(values = c("US and Canada" = "darkblue", "Latin America" = "darkred")) +
+  scale_fill_manual(values = c("US and Canada" = "darkblue", "Latin America" = "darkred")) +
+  theme_light() +
+  theme(text = element_text(family = "serif"))
+
+
+# display plots side by side with a single legend
+radar1 + radar2 + 
+  plot_layout(guides = 'collect')
+
+
+# comparing player compensation in Latin America and US/Canada given age and player position
+# use mls countries table from previrous cell to create demographic groups
+mls_countries <- mls_countries |> mutate(demographic = "US and Canada")
+
+americas_non_mls <- americas_non_mls |> mutate(demographic = "Latin America")
+
+# join both tables
+combined_data_region <- bind_rows(mls_countries, americas_non_mls)
+
+# filter data and group player positions for consistency in naming 
+filtered_players <- combined_data_region |>
+  filter(!is.na(annual_wage_usd), !is.na(position)) |>
+  mutate(
+    pos_group = case_when(
+      position %in% c("Right-Back", "Centre-Back", "Left-Back", "Defence") ~ "Defender (Defensive Midfield, Full-Back)",
+      position %in% c("Midfield", "Central Midfield", "Left Midfield", "Right Midfield") ~ "Midfielder (Versetile)",
+      position %in% c("Left Winger", "Right Winger") ~ "Winger",
+      position %in% c("Centre-Forward", "Second Striker", "Attacking Midfield") ~ "Attacker (Midfield, Forward)",
+      TRUE ~ position))
+
+# line plot showing relationship between age and wage for different positions
+ggplot(data = filtered_players, 
+       mapping = aes(x = age,  
+                     y = annual_wage_usd, 
+                     color = pos_group)) +
+  geom_smooth(se = FALSE, linewidth = 1) +
+  scale_y_log10(labels = scales::dollar) +  
+  facet_wrap(~demographic) +
+  scale_color_paletteer_d("rcartocolor::Safe") +
+  labs(
+    x = "Age", 
+    y = "Annual Wage (USD)",
+    color = "Position") +
+  theme_classic() +
+  theme(
+    panel.grid.major = element_line(colour = "grey90", linewidth = 0.2),
+    panel.grid.minor = element_line(colour = "grey90", linewidth = 0.2),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 10), 
+    text = element_text(family = "serif", size = 15), 
+    legend.position = "bottom")
+
+
+# table showing the median salaries of the nationalities most represented in the MLS. Plot includes player impact metric created for this project. Impact metric successfully identified players who were apart --------------
+# of the MLS Best XI in 2022 (from multiple positions), showing it to be a reliable metric.
+
+# select top 10 most represented nationalities
+top_nats <- player_data |>
+  count(nationality, sort = TRUE) |>
+  slice_max(n, n = 10, with_ties = FALSE)
+
+# filter to only include young players
+young_players <- player_data |>
+  filter(nationality %in% top_nats$nationality, !is.na(annual_wage_usd), age <= 25, 
+         matches_played > 1) |>
+  select(player, annual_wage_usd, nationality, age, PIM_score) |>
+  group_by(nationality) |>
+  filter(n() >= 5) |>
+  summarize(
+    `median PIM score` = median(PIM_score, na.rm = TRUE),
+    `median salary` = median(annual_wage_usd, na.rm = TRUE)) |>
+  arrange(`median PIM score`) |>
+  slice_head(n = 10)
+
+# create table showing their median salaries and impact scores by nationality
+young_players |>
+  kable(
+  format = "latex",
+  booktabs = TRUE) |>
+  kableExtra::kable_styling(
+    position = "float_right",  
+    latex_options = c("HOLD_position")) |>
+    column_spec(3, 
+            color = "black",
+            background = scales::col_numeric(
+              palette = "RdYlBu",
+              domain = range(young_players$`median salary`))(young_players$`median salary`)) |>
+  add_header_above(header = c("Table 2" = 3), align = "c")
+
+
+# heat map plot showing overall trends in player compensation relative to impact in the MLS -----------------------------------------------------------------------------------------------------------------------------------
+
+# heat map of player salaries in the mls
+ggplot(data = all_player, 
+       mapping = aes(x = annual_wage_usd, y = PIM_score)) +
+  stat_bin2d(bins = 20, aes(fill = after_stat(count))) +
+  stat_bin2d(bins = 20, aes(label = after_stat(count)), 
+             geom = "text", color = "white")  +
+  scale_x_log10(labels = scales::label_dollar()) +
+  paletteer::scale_fill_paletteer_c("grDevices::Zissou 1", direction = 1, trans = "log10") +
+  labs(
+    x = "Annual Salary (USD)",
+    y = "Player Impact Score")+
+  theme_classic() +
+  theme(
+    panel.grid.major = element_line(colour = "grey90", linewidth = 0.2),
+    panel.grid.minor = element_line(colour = "grey90", linewidth = 0.2),
+    plot.title = element_text(size = 20), 
+    text = element_text(family = "serif")) 
+
+
+# table of most impactful players 2022 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# select players with highest player impact scores
+top_pim <- all_player |>
+  mutate(position = case_when(
+    position %in% c("Right-Back", "Left-Back", "Defence") ~ "Full-Back",
+    position %in% c("Right Winger", "Left Winger") ~ "Winger",
+    position %in% c("Second Striker", "Centre-Forward") ~ "Forward",
+    position %in% c("Left Midfield", "Right Midfield", "Midfield") ~ "Midfielder (Versetile)",
+    TRUE ~ position)) |>
+  select(player, position, PIM_score) |>
+  arrange(desc(PIM_score)) |>
+  slice_head(n = 10)
+
+# create table of most impactful players
+kable(top_pim, booktabs = TRUE, format = "latex") |>
+  kable_styling(latex_options = c("hold_position"), font_size = 7, 
+                full_width = FALSE) |>
+  column_spec(3, width = "1cm") |>
+  add_header_above(header = c("Table 1" = 3), align = "c")
