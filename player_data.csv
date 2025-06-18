@@ -1,0 +1,769 @@
+player,team,position,nationality,fifa_abbr,age,matches_played,min_played_total,goals,ast,pk,pk_att,xg,xg_asst,tackles,tackles_won,def_3rd_tackles,att_3rd_tackles,shots_blocked,pass_blocks,interceptions,sec_chance_sca,defensive_sca,gca,defensive_gca,pass_completion_rate,PIM_score,annual_wage_usd,wkly_wage_usd
+A.J. DeLaGarza,New England Revolution,Right-Back,Guam,GUM,34,4,290,0,0,0,0,0,0.1,6,4,2,2,1,2,1,0,0,0,0,0.782,3.338888888888889,250000,4808
+Aaron Herrera,Real Salt Lake,Right-Back,Guatemala,GUA,24,27,2268,0,2,0,0,0.6,3,35,20,23,1,17,16,39,2,0,4,0,0.758,41.42222222222222,700000,13462
+Aaron Long,New York Red Bulls,Centre-Back,United States,USA,29,29,2366,4,0,0,0,2.6,0.4,22,13,13,3,11,12,27,2,1,0,0,0.762,32.38333333333333,1050000,20192
+Abdoul Zanne,D.C. United,Midfield,Côte d’Ivoire,CIV,18,1,4,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0.25,1.1055555555555556,NA,NA
+Abdoulaye Cissoko,Seattle Sounders,Centre-Back,France,FRA,22,10,409,0,0,0,0,0,0,14,5,13,0,2,4,8,0,0,0,0,0.8740000000000001,7.866666666666667,66724,1283
+Abraham Rodriguez,Colorado Rapids,Goalkeeper,United States,USA,19,1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.05,84000,1615
+Abu Danladi,Minnesota United,Centre-Forward,Ghana,GHA,26,19,634,2,0,0,0,1.2,0.7,15,10,6,3,1,6,8,0,0,0,0,0.6759999999999999,11.53888888888889,135000,2596
+Adalberto Carrasquilla,Houston Dynamo,Central Midfield,Panama,PAN,23,32,2392,2,3,0,0,2.2,3.9,34,21,15,3,3,25,35,2,2,7,0,0.7979999999999999,43.027777777777786,418908,8056
+Adam Armour,Charlotte FC,Left-Back,United States,USA,19,5,85,1,0,0,0,0.2,0.2,0,0,0,0,0,4,2,0,0,0,0,0.7070000000000001,4.961111111111112,65500,1260
+Adam Buksa,New England Revolution,Centre-Forward,Poland,POL,25,10,815,7,2,0,0,3.7,0.9,5,1,0,1,0,4,0,3,0,4,0,0.708,16.86111111111111,NA,NA
+Adam Lundqvist,Houston Dynamo,Left-Back,Sweden,SWE,27,31,2581,0,5,0,0,0.3,2.1,71,51,42,6,10,23,41,1,1,7,0,0.792,44.672222222222224,325000,6250
+Adam Saldaña,LA Galaxy,NA,United States,USA,19,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.05,89513,1721
+Adilson Malanda,Charlotte FC,Centre-Back,France,FRA,20,6,540,0,1,0,0,0.2,0.2,5,3,5,0,3,2,8,1,0,1,0,0.867,9.411111111111111,250000,4808
+Adrien Hunou,Minnesota United,Centre-Forward,France,FRA,28,9,128,0,0,0,0,0.3,0,1,1,0,1,0,2,0,0,0,1,0,0.725,2.261111111111111,NA,NA
+Adrien Perez,D.C. United,Centre-Forward,United States,USA,26,3,133,0,0,0,0,0.1,0,0,0,0,0,1,2,2,0,0,0,0,0.609,3.316666666666667,89513,1721
+Ahmed Hamdi,CF Montréal,Attacking Midfield,Egypt,EGY,23,9,332,0,1,0,0,0.4,0.3,5,4,2,0,0,2,0,0,0,2,0,0.818,4.222222222222222,475000,9135
+Aidan Morris,Columbus Crew,Central Midfield,United States,USA,20,27,1811,0,0,0,0,0.8,0.4,74,48,38,6,6,25,25,3,3,1,0,0.866,29.794444444444444,170000,3269
+Aiden McFadden,Atlanta United,Right-Back,United States,USA,23,11,639,0,0,0,0,0.2,1.5,18,9,9,2,3,5,4,0,0,0,0,0.752,8.783333333333335,65500,1260
+Aimé Mabika,Inter Miami,Centre-Back,Zambia,ZAM,23,15,1022,0,1,0,0,0,0.4,17,11,11,0,11,9,15,0,0,0,0,0.873,18.316666666666666,65500,1260
+Alan Benítez,Minnesota United,Right-Back,Paraguay,PAR,28,11,570,1,2,0,0,0.3,1,15,6,11,0,2,0,4,1,0,2,0,0.7290000000000001,9.033333333333333,380000,7308
+Alan Velasco,FC Dallas,Left Winger,Argentina,ARG,19,26,1928,6,5,0,0,3.7,4.7,26,12,11,8,3,25,17,6,0,14,0,0.763,41.43888888888889,1100000,21154
+Albert Rusnák,Seattle Sounders,Attacking Midfield,Slovakia,SVK,27,32,2603,3,0,0,0,2.6,2.1,29,15,9,5,4,5,24,5,0,4,0,0.852,29.92222222222222,1800000,34615
+Alec Kann,FC Cincinnati,Goalkeeper,United States,USA,31,7,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.619,1.6055555555555556,200000,3846
+Alejandro Bedoya,Philadelphia Union,Central Midfield,United States,USA,34,30,2422,6,6,0,0,3.3,4,35,21,17,8,5,20,34,4,3,9,1,0.733,48.955555555555556,900000,17308
+Alejandro Pozuelo,Inter Miami,Attacking Midfield,Spain,ESP,30,28,2372,6,8,0,2,5.5,7.9,43,28,14,8,0,15,7,1,3,20,0,0.8144999999999999,44.22777777777778,3800000,73077
+Alessandro Schöpf,Vancouver Whitecaps FC,Attacking Midfield,Austria,AUT,27,7,342,0,0,0,0,0.2,0.1,2,1,0,0,0,6,1,1,0,0,0,0.872,4.816666666666667,800000,15385
+Alex Bono,Toronto FC,Goalkeeper,United States,USA,27,24,2160,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0.675,5.066666666666666,525000,10096
+Alex DeJohn,Atlanta United,Centre-Back,United States,USA,30,5,416,0,0,0,0,0.8,0,9,5,8,0,5,3,6,0,0,0,0,0.87,8.772222222222222,85444,1643
+Alex Monis,Chicago Fire,Right Winger,Philippines,PHI,18,1,2,1,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,NA,2.5,84000,1615
+Alex Muyl,Nashville SC,Right Winger,United States,USA,26,29,2019,2,2,0,0,2.9,2.4,54,38,27,7,2,20,18,5,0,5,0,0.738,29.844444444444445,325000,6250
+Alex Roldan,Seattle Sounders,Right-Back,El Salvador,SLV,25,32,2610,1,4,0,0,0.4,3.7,65,42,37,8,10,26,34,1,1,9,0,0.8170000000000001,46.53333333333333,200000,3846
+Alexander Callens,New York City FC,Centre-Back,Peru,PER,29,27,2386,5,1,0,0,4.4,0.5,33,20,18,3,19,4,17,4,1,2,1,0.88,36.233333333333334,750000,14423
+Alexander Ring,Austin FC,Central Midfield,Finland,FIN,30,34,2780,4,3,0,0,5,3.3,52,28,29,5,10,16,29,5,2,14,0,0.7909999999999999,44.61111111111111,1500000,28846
+Alexandre Pato,Orlando City,Centre-Forward,Brazil,BRA,32,22,1196,3,5,1,1,4.4,4.6,8,6,1,2,0,9,6,5,1,7,1,0.687,26.01111111111111,400000,7692
+Alexandru Mățan,Columbus Crew,Left Winger,Romania,ROU,22,6,32,0,0,0,0,0.7,0,0,0,0,0,0,0,1,1,0,1,0,0.667,2.2,425000,8173
+Alfredo Morales,New York City FC,Central Midfield,United States,USA,31,24,1880,0,2,0,0,0.9,0.8,44,28,16,1,7,11,28,3,0,2,0,0.9,29.32777777777778,600000,11538
+Ali Ahmed,Vancouver Whitecaps FC,Left-Back,Canada,CAN,21,2,56,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0.862,1.5388888888888888,NA,NA
+Alistair Johnston,CF Montréal,Right-Back,Canada,CAN,23,33,2646,4,4,0,0,1.3,3.2,47,27,29,4,3,25,32,3,2,7,0,0.815,45.03888888888889,400000,7692
+Aljaž Ivačič,Portland Timbers,Goalkeeper,Slovenia,SVN,28,32,2880,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.644,4.522222222222222,220000,4231
+Allan Cruz,FC Cincinnati,Central Midfield,Costa Rica,CRC,25,11,403,0,0,0,0,0.7,0.5,18,9,7,3,2,3,8,0,0,1,0,0.8,8.133333333333333,1140000,21923
+Alvas Powell,FC Cincinnati,Right-Back,Jamaica,JAM,27,28,1930,0,3,0,0,1.2,1.9,48,24,21,9,6,23,25,1,0,7,0,0.655,31.722222222222225,150000,2885
+Amar Sejdic,Atlanta United,Defensive Midfield,United States,USA,25,23,1306,0,1,0,0,0.4,1.7,41,18,8,8,5,17,23,2,0,2,0,0.845,25.611111111111114,85444,1643
+Anderson Julio,Real Salt Lake,Right Winger,Ecuador,ECU,25,20,527,3,1,0,0,2.2,0.5,3,1,2,1,0,3,2,1,0,3,0,0.731,10.122222222222222,750000,14423
+Andre Blake,Philadelphia Union,Goalkeeper,Jamaica,JAM,31,34,3060,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0.657,4.883333333333333,750000,14423
+Andre Reynolds II,Chicago Fire,Left-Back,United States,USA,20,12,404,0,0,0,0,0,0,10,7,2,3,0,2,5,0,0,0,0,0.7340000000000001,4.488888888888889,90000,1731
+Andre Shinyashiki,Charlotte FC,Left Winger,Brazil,BRA,26,29,1060,7,0,0,0,4.5,0.7,26,14,8,6,0,16,7,3,0,2,0,0.6975,24.06111111111111,140000,2692
+Andres Jasson,New York City FC,Left Winger,United States,USA,20,15,467,0,1,0,0,0.7,1.1,12,4,9,1,1,8,3,0,0,1,0,0.809,9.705555555555557,100000,1923
+Andreu Fontàs,Sporting Kansas City,Centre-Back,Spain,ESP,32,28,2437,2,0,0,0,1.6,0.4,37,21,25,1,19,19,29,7,1,3,0,0.87,40.82777777777778,1125000,21635
+Andrew Brody,Real Salt Lake,Left-Back,United States,USA,26,34,2955,2,4,0,0,1.4,3.2,46,22,23,3,6,24,50,1,1,7,0,0.785,50.605555555555554,190000,3654
+Andrew Farrell,New England Revolution,Centre-Back,United States,USA,29,32,2778,0,0,0,0,0.4,0.1,43,21,33,1,30,18,27,2,1,3,0,0.845,39.66111111111111,425000,8173
+Andrew Gutman,Atlanta United,Left-Back,United States,USA,25,25,1962,4,1,0,0,4.4,1.5,50,29,33,4,8,21,24,2,1,3,0,0.782,37.63333333333333,300000,5769
+Andrew Tarbell,Austin FC,Goalkeeper,United States,USA,28,4,352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.871,1.9,300000,5769
+Andrés Cubas,Vancouver Whitecaps FC,Defensive Midfield,Paraguay,PAR,25,18,1349,1,0,0,0,0.3,0.2,57,36,28,4,7,21,34,2,1,1,0,0.875,30.805555555555557,900000,17308
+Andrés Perea,Orlando City,Defensive Midfield,United States,USA,21,24,813,1,0,0,0,0.7,0.3,24,15,11,5,4,7,13,0,0,0,0,0.823,14.427777777777779,240000,4615
+Andrés Reyes,New York Red Bulls,Centre-Back,Colombia,COL,22,12,695,0,0,0,0,0.3,0.4,14,8,9,1,3,4,11,0,0,1,0,0.775,10.105555555555556,425000,8173
+Andy Najar,D.C. United,Right-Back,Honduras,HON,28,23,1666,0,1,0,0,0.6,0.6,26,15,18,3,7,16,51,1,2,3,0,0.7809999999999999,36.93333333333334,375000,7212
+Anthony Markanich,Colorado Rapids,Left-Back,Philippines,PHI,22,3,234,0,0,0,0,0.2,0.3,5,5,3,1,1,4,1,0,0,0,0,0.778,4.366666666666667,65500,1260
+Anton Tinnerholm,New York City FC,Right-Back,Sweden,SWE,30,10,580,0,0,0,0,0.2,1.1,8,4,2,3,0,4,1,0,0,0,0,0.809,5.661111111111111,750000,14423
+Anton Walkes,Charlotte FC,Centre-Back,England,ENG,24,23,1806,0,0,0,0,0.2,0,23,12,18,0,12,7,15,0,0,0,0,0.879,20.833333333333336,325000,6250
+Antonio Carlos,Orlando City,Centre-Back,Brazil,BRA,28,21,1625,0,1,0,0,0.7,0.1,22,15,12,1,11,4,31,2,0,1,0,0.87,25.411111111111115,900000,17308
+Aníbal Godoy,Nashville SC,Defensive Midfield,Panama,PAN,31,19,945,1,2,0,0,0.8,0.4,15,9,8,1,5,11,12,0,1,2,1,0.888,19.433333333333334,800000,15385
+Ariel Lassiter,Inter Miami,Left Winger,Costa Rica,CRC,27,30,1640,4,4,0,0,4.9,4,8,3,1,0,2,6,7,5,1,7,0,0.7390000000000001,25.688888888888886,210000,4038
+Arnaud Ake,Nashville SC,Centre-Forward,Côte d’Ivoire,CIV,23,21,318,1,0,0,0,0.6,0.8,7,1,3,1,0,5,1,0,0,0,0,0.6609999999999999,6.027777777777779,1250000,24038
+Arnór Ingvi Traustason,New England Revolution,Left Winger,Iceland,ISL,28,15,496,0,0,0,0,0.6,1,5,2,1,2,1,2,3,2,0,1,0,0.78,5.788888888888889,NA,NA
+Arquimides Ordonez,FC Cincinnati,Centre-Forward,Guatemala,GUA,18,8,90,0,0,0,0,0.7,0,3,2,3,0,0,1,1,0,0,0,0,0.759,2.6222222222222222,65500,1260
+Artur,Columbus Crew,Defensive Midfield,Brazil,BRA,25,24,1642,0,0,0,0,0.9,0.9,48,26,24,5,3,20,20,3,1,2,0,0.863,24.333333333333332,564000,10846
+Ashley Fletcher,New York Red Bulls,Centre-Forward,England,ENG,26,7,249,0,0,0,0,0.7,0.7,2,1,0,1,1,4,2,1,0,0,0,0.639,5.416666666666667,NA,NA
+Auston Trusty,Colorado Rapids,Centre-Back,United States,USA,23,16,1439,0,0,0,0,0.8,0.4,23,18,10,3,10,9,21,1,0,1,0,0.818,21.68888888888889,NA,NA
+Ayo Akinola,Toronto FC,Centre-Forward,Canada,CAN,22,26,1241,2,0,0,0,3.9,0.6,8,6,2,3,1,3,2,6,0,5,0,0.7170000000000001,10.772222222222222,600000,11538
+Azaad Liadi,D.C. United,Left Winger,United States,USA,23,1,9,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0.5,1.411111111111111,NA,NA
+Bakaye Dibassy,Minnesota United,Centre-Back,Mali,MLI,32,26,2256,1,0,0,0,0.8,0.1,28,16,21,1,22,9,37,1,0,0,0,0.815,34.51111111111111,650000,12500
+Ben Bender,Charlotte FC,Left Midfield,United States,USA,20,28,1645,3,6,0,0,2.7,3.3,25,14,2,8,4,18,10,3,0,9,0,0.7879999999999999,31.705555555555556,65500,1260
+Ben Reveno,New England Revolution,Centre-Back,United States,USA,22,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1.4166666666666665,65500,1260
+Ben Sweat,Sporting Kansas City,Left-Back,United States,USA,30,20,1524,0,3,0,0,0.7,1.7,21,16,11,1,4,13,19,1,1,4,0,0.7959999999999999,24.866666666666667,200000,3846
+Benjamin Kikanovic,San Jose Earthquakes,Left Winger,United States,USA,22,30,1370,6,3,0,0,3.6,1.5,17,9,5,6,1,9,5,1,1,4,0,0.7190000000000001,22.566666666666666,85444,1643
+Benjamin Redzic,FC Dallas,Left Winger,United States,USA,19,6,67,0,0,0,0,0.3,0,1,0,1,0,0,0,1,1,0,0,0,0.8059999999999999,1.838888888888889,66724,1283
+Benji Michel,Orlando City,Left Winger,United States,USA,24,31,1504,1,0,0,0,3.4,0.7,16,7,4,4,0,11,6,2,0,4,0,0.7659999999999999,14.322222222222225,115000,2212
+Bernard Kamungo,FC Dallas,Right Winger,United States,USA,20,1,21,0,0,0,0,0,0.3,1,1,0,0,0,1,0,0,0,0,0,0.6,1.7333333333333336,84000,1615
+Bill Hamid,D.C. United,Goalkeeper,United States,USA,31,10,858,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.741,2.3833333333333333,700000,13462
+Bill Tuiloma,Portland Timbers,Centre-Back,New Zealand,NZL,26,30,2255,6,2,0,0,3.7,0.9,18,11,10,4,28,5,32,3,0,2,0,0.8320000000000001,44.983333333333334,285000,5481
+Blake Bodily,Portland Timbers,Left Winger,United States,USA,24,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0666666666666667,84000,1615
+Bobby Shuttleworth,Atlanta United,Goalkeeper,United States,USA,34,7,558,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.899,1.9388888888888889,NA,NA
+Bobby Wood,Real Salt Lake,Centre-Forward,United States,USA,29,14,983,3,1,0,0,3.6,1.4,6,5,1,2,1,8,2,2,0,4,0,0.7390000000000001,15.233333333333334,925000,17788
+Bode Davis,Real Salt Lake,Central Midfield,United States,USA,19,6,91,1,0,0,0,0.2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,84000,1615
+Bongokuhle Hlongwane,Minnesota United,Centre-Forward,South Africa,RSA,21,29,1598,2,4,0,0,4.9,3.8,35,20,13,7,3,39,16,4,0,7,0,0.679,40.72222222222223,530000,10192
+Boris Sekulić,Chicago Fire,Right-Back,Slovakia,SVK,30,33,2815,0,2,0,0,1.2,3,58,34,37,6,8,23,36,5,1,5,0,0.8140000000000001,40.87222222222222,596000,11462
+Brad Guzan,Atlanta United,Goalkeeper,United States,USA,37,7,612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.813,2.1333333333333333,445716,8571
+Brad Knighton,New England Revolution,Goalkeeper,United States,USA,36,4,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8190000000000001,1.4277777777777778,150000,2885
+Brad Smith,D.C. United,Left-Back,Australia,AUS,27,16,1148,0,1,0,0,0.6,1.8,29,15,12,7,1,12,11,1,0,2,0,0.648,16.17777777777778,550000,10577
+Brad Stuver,Austin FC,Goalkeeper,United States,USA,30,31,2708,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0.763,5.9944444444444445,175000,3365
+Braian Ojeda,Real Salt Lake,Central Midfield,Paraguay,PAR,21,6,352,0,0,0,0,0.1,0.1,7,2,2,1,0,2,8,0,0,0,0,0.7759999999999999,5.872222222222223,550000,10577
+Brandan Craig,Philadelphia Union,Centre-Back,United States,USA,17,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0166666666666666,85000,1635
+Brandon Bye,New England Revolution,Right-Back,United States,USA,26,29,2565,2,7,0,0,3,5.1,41,25,24,3,13,25,30,1,1,8,0,0.742,51.75555555555556,325000,6250
+Brandon Servania,FC Dallas,Central Midfield,United States,USA,22,23,1321,2,3,0,0,1.5,1.8,26,16,13,2,4,16,12,4,0,5,0,0.78,24.805555555555557,400000,7692
+Brandon Vazquez,FC Cincinnati,Centre-Forward,United States,USA,23,33,2740,18,8,0,0,14.9,4.1,11,6,4,3,3,16,1,8,0,14,0,0.664,56.31666666666667,275000,5288
+Brandt Bronico,Charlotte FC,Central Midfield,United States,USA,26,34,2812,1,1,0,0,1.7,0.6,70,49,33,3,13,29,32,3,0,4,0,0.847,42.43333333333333,125000,2404
+Brek Shea,Inter Miami,Left Midfield,United States,USA,31,4,161,0,0,0,0,0,0.1,1,0,1,0,0,0,1,0,0,0,0,0.805,1.8888888888888888,182000,3500
+Brendan Hines-Ike,D.C. United,Centre-Back,United States,USA,27,20,1682,0,0,0,0,0.2,0.1,26,17,15,1,16,5,18,1,1,0,0,0.797,21.25,375000,7212
+Brenner,FC Cincinnati,Centre-Forward,Brazil,BRA,22,29,2056,18,6,1,1,12.4,3,23,12,7,5,0,16,4,6,1,9,0,0.8190000000000001,51.38333333333333,1680000,32308
+Brent Kallman,Minnesota United,Centre-Back,United States,USA,31,20,1395,2,0,0,0,0.9,0.6,13,10,13,0,8,6,18,1,0,1,0,0.7829999999999999,19.68888888888889,160000,3077
+Brian Anunga,Nashville SC,Central Midfield,Cameroon,CMR,25,24,842,0,0,0,0,0.2,0,26,13,16,4,0,13,18,0,0,1,0,0.8390000000000001,15.544444444444444,156000,3000
+Brian Gutiérrez,Chicago Fire,Left Midfield,United States,USA,18,33,1637,2,5,0,0,2.9,2.7,27,16,6,6,2,24,7,3,0,10,0,0.752,29.50555555555556,104000,2000
+Brian Rodríguez,Los Angeles FC,Left Winger,Uruguay,URU,21,14,819,2,3,0,0,3.2,1.8,6,2,0,2,0,13,4,2,0,5,0,0.7120000000000001,18.694444444444446,NA,NA
+Brian White,Vancouver Whitecaps FC,Centre-Forward,United States,USA,25,26,1667,4,1,0,0,5.2,1.9,18,11,3,7,4,10,2,4,1,4,0,0.6609999999999999,20.81111111111111,456000,8769
+Brooklyn Raines,Houston Dynamo,Defensive Midfield,United States,USA,16,1,34,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0.4,1.411111111111111,65500,1260
+Brooks Lennon,Atlanta United,Right-Back,United States,USA,24,25,2033,2,6,0,0,1.8,7.9,34,18,13,5,4,11,7,1,0,10,0,0.7759999999999999,33.10555555555556,500000,9615
+Bryan Acosta,Colorado Rapids,Central Midfield,Honduras,HON,28,26,1898,0,2,0,0,0.6,3.7,42,29,25,4,7,14,18,0,1,5,1,0.797,27.616666666666667,650000,12500
+Bryan Oviedo,Real Salt Lake,Left-Back,Costa Rica,CRC,31,6,361,0,2,0,0,0.1,0.3,8,3,5,0,0,2,5,1,1,2,0,0.755,6.988888888888889,274800,5285
+Bryce Duke,Inter Miami,Central Midfield,United States,USA,20,28,1478,1,4,0,0,2.3,1.8,27,15,14,3,2,4,8,1,0,10,0,0.7959999999999999,19.177777777777777,122000,2346
+C.J. Sapong,Nashville SC,Centre-Forward,United States,USA,33,33,2464,5,5,0,0,8.1,3.4,11,8,3,4,4,14,9,5,0,8,0,0.68,35.349999999999994,550000,10577
+Cade Cowell,San Jose Earthquakes,Left Winger,United States,USA,18,31,1554,3,3,0,0,3.3,1.6,21,11,8,3,2,10,7,1,1,7,0,0.7559999999999999,21.18888888888889,545455,10490
+Caden Clark,New York Red Bulls,Attacking Midfield,United States,USA,18,16,485,1,1,0,0,0.8,0.6,17,12,6,3,1,16,3,0,0,2,0,0.612,12.75,148800,2862
+Caio Alexandre,Vancouver Whitecaps FC,Central Midfield,Brazil,BRA,22,4,81,0,0,0,0,0.1,0.1,2,2,0,1,1,1,0,0,2,0,0,0.909,2.2222222222222223,500000,9615
+Cal Jennings,Los Angeles FC,Centre-Forward,United States,USA,24,3,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.4,1.411111111111111,84000,1615
+Caleb Wiley,Atlanta United,Left-Back,United States,USA,17,26,1497,1,1,0,0,1.3,2.4,39,21,20,5,5,20,21,2,0,4,0,0.767,28.166666666666668,65500,1260
+Calvin Harris,FC Cincinnati,Left Winger,England,ENG,21,8,179,1,1,0,0,1.6,0.8,2,2,1,0,0,0,0,0,0,1,0,0.875,5.633333333333334,85444,1643
+Cameron Duke,Sporting Kansas City,Central Midfield,United States,USA,20,26,1227,0,2,0,0,1.7,1.8,26,12,9,8,1,14,13,0,1,7,0,0.763,19.555555555555557,90000,1731
+Cameron Harper,New York Red Bulls,Right Winger,United States,USA,20,17,765,2,2,0,0,1.1,1.2,24,13,8,4,0,16,6,1,0,3,0,0.545,16.866666666666667,225000,4327
+Carles Gil,New England Revolution,Attacking Midfield,Spain,ESP,29,33,2911,7,9,4,4,8.7,10.8,17,8,10,2,0,21,9,4,0,20,0,0.767,58.30555555555556,3250000,62500
+Carlos Coronel,New York Red Bulls,Goalkeeper,Paraguay,PAR,25,33,2970,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.541,3.738888888888889,480000,9231
+Carlos Salcedo,Toronto FC,Centre-Back,Mexico,MEX,28,13,1153,0,0,0,0,0.2,0.1,14,9,8,0,12,7,26,1,0,0,0,0.826,23.016666666666666,NA,NA
+Carlos Terán,Chicago Fire,Centre-Back,Colombia,COL,21,22,1674,1,0,0,0,1.7,0.3,28,18,22,0,12,8,38,2,0,0,0,0.767,30.70555555555556,200000,3846
+Carlos Vela,Los Angeles FC,Right Winger,Mexico,MEX,32,32,2319,12,9,4,5,9.4,8.8,19,11,5,5,2,7,4,4,1,22,0,0.733,50.10000000000001,2400000,46154
+Cecilio Domínguez,Austin FC,Left Winger,Paraguay,PAR,27,4,280,2,0,0,0,1.1,0.8,5,0,2,0,0,2,1,1,0,1,0,0.748,6.527777777777779,NA,NA
+Chase Gasper,LA Galaxy,Left-Back,United States,USA,26,17,840,0,0,0,0,0.1,0.1,13,8,10,1,4,3,11,0,0,0,0,0.805,10.761111111111111,375000,7212
+Chinonso Offor,Chicago Fire,Centre-Forward,Nigeria,NGA,21,7,268,1,0,0,0,1.4,0.2,2,1,0,0,0,2,0,0,0,0,0,0.685,4.738888888888889,NA,NA
+Chris Durkin,D.C. United,Defensive Midfield,United States,USA,21,29,2242,1,4,0,0,1.1,3.4,34,19,10,3,4,23,21,3,2,10,0,0.728,34.12222222222223,400000,7692
+Chris Gloster,New York City FC,Left-Back,United States,USA,21,11,481,1,1,0,0,0.2,1,2,0,2,0,0,4,7,0,0,1,0,0.79,10.066666666666668,228000,4385
+Chris Hegardt,Charlotte FC,Defensive Midfield,United States,USA,20,3,19,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.708,1.4944444444444445,65500,1260
+Chris Kablan,Real Salt Lake,Left-Back,Switzerland,SUI,27,2,27,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0.625,1.8833333333333333,NA,NA
+Chris Mavinga,Toronto FC,Centre-Back,Congo - Kinshasa,COD,30,19,1494,0,0,0,0,0,0,39,25,26,4,8,13,19,0,0,1,0,0.8809999999999999,20.872222222222224,1000000,19231
+Chris Mueller,Chicago Fire,Right Winger,United States,USA,25,24,1962,4,5,0,1,5.8,4,25,11,5,10,1,19,7,4,3,7,1,0.784,34.861111111111114,549996,10577
+Chris Odoi-Atsem,D.C. United,Right-Back,United States,USA,26,20,851,0,0,0,0,0.2,0.1,14,9,7,1,3,9,9,0,0,1,0,0.677,10.82777777777778,140000,2692
+Christian Benteke,D.C. United,Centre-Forward,Belgium,BEL,31,7,558,1,0,0,1,2.7,0.5,0,0,0,0,1,2,1,3,1,0,0,0.662,7.28888888888889,4000000,76923
+Christian Fuchs,Charlotte FC,Left-Back,Austria,AUT,35,26,1943,3,0,3,3,3.2,0.5,36,22,20,3,14,22,39,1,0,3,0,0.7879999999999999,44.34444444444445,375000,7212
+Christian Makoun,Charlotte FC,Centre-Back,Venezuela,VEN,21,21,1235,0,0,0,0,0.8999999999999999,0.3,17,14,10,0,16,7,17,1,0,0,0,0.855,21.677777777777777,200000,3846
+Christian Ortiz,Charlotte FC,NA,Argentina,ARG,29,15,642,1,2,0,0,0.6,2.2,8,6,2,2,2,7,2,2,0,2,0,0.684,12.066666666666668,NA,NA
+Christopher Brady,Chicago Fire,Goalkeeper,United States,USA,17,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6,1.1166666666666667,159996,3077
+Christopher Donovan,Philadelphia Union,Centre-Forward,United States,USA,21,6,108,0,0,0,0,0.1,0.1,2,2,2,0,0,1,0,0,0,0,0,0.475,1.7055555555555557,NA,NA
+Christopher Garcia,Real Salt Lake,Right Winger,United States,USA,19,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,1.0055555555555555,90000,1731
+Christopher McVey,Inter Miami,Left-Back,Sweden,SWE,24,34,3039,1,1,0,0,1.4,0.9,56,35,41,3,15,21,47,0,1,3,0,0.8370000000000001,45.95,199992,3846
+Claudio Bravo,Portland Timbers,Left-Back,Argentina,ARG,24,26,2202,0,2,0,0,1.1,2.1,120,77,84,17,16,35,47,4,1,5,0,0.7559999999999999,51.38888888888889,300000,5769
+Clément Diop,Inter Miami,Goalkeeper,Senegal,SEN,28,3,270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.677,1.35,125000,2404
+Cody Cropper,Vancouver Whitecaps FC,Goalkeeper,United States,USA,28,15,1236,0,1,0,0,0,0.1,0,0,0,0,0,0,0,0,0,1,0,0.6779999999999999,3.2555555555555555,84000,1615
+Collen Warner,Colorado Rapids,Central Midfield,United States,USA,33,18,640,1,0,0,0,1.3,0.2,16,8,6,1,6,6,6,2,0,0,0,0.818,12.027777777777777,84000,1615
+Corentin Jean,Inter Miami,Centre-Forward,France,FRA,26,3,76,0,1,0,0,0.2,0.1,0,0,0,0,0,0,0,0,0,1,0,0.852,2.4277777777777776,720000,13846
+Corey Baird,Houston Dynamo,Centre-Forward,United States,USA,26,23,1345,2,4,0,0,1.7,3.3,23,8,10,8,1,11,7,4,0,5,0,0.736,21.1,440000,8462
+Cory Burke,Philadelphia Union,Centre-Forward,Jamaica,JAM,30,33,1194,7,4,0,0,5.9,3.3,29,21,7,9,2,18,1,5,1,5,0,0.551,30.40555555555556,400000,7692
+Cristhian Paredes,Portland Timbers,Central Midfield,Paraguay,PAR,23,27,1663,2,2,1,1,3.6,1.5,48,24,25,9,9,18,24,7,1,7,0,0.782,33.28333333333333,252000,4846
+Cristian Arango,Los Angeles FC,Centre-Forward,Colombia,COL,26,34,2341,16,4,1,2,16.3,4,17,9,2,5,2,10,4,13,3,9,0,0.645,49.43333333333333,624000,12000
+Cristian Cásseres Jr.,New York Red Bulls,Central Midfield,Venezuela,VEN,22,27,2200,2,4,0,0,3.2,3.2,77,45,25,13,3,38,23,5,4,10,0,0.708,42.80555555555556,230000,4423
+Cristian Espinoza,San Jose Earthquakes,Right Winger,Argentina,ARG,26,34,2848,7,9,5,5,7.7,9.7,27,17,10,8,2,27,15,12,0,20,0,0.725,57.43888888888889,1150000,22115
+Cristian Roldan,Seattle Sounders,Central Midfield,United States,USA,26,26,2102,4,4,0,0,3.8,4.1,37,24,12,6,5,19,15,4,0,10,0,0.78,37.62777777777778,860000,16538
+Cristian Tello,Los Angeles FC,Left Winger,Spain,ESP,30,4,98,0,0,0,0,0.2,0.1,0,0,0,0,0,1,0,1,0,0,0,0.919,2.0166666666666666,1333333,25641
+Cristián Dajome,Vancouver Whitecaps FC,Left Winger,Colombia,COL,28,28,1797,2,4,0,1,3.1,2.9,34,23,18,5,6,17,13,3,1,5,0,0.733,30.488888888888887,750000,14423
+Cristián Gutiérrez,Vancouver Whitecaps FC,Left-Back,Chile,CHI,24,11,616,0,1,0,0,0.2,1.1,10,8,8,1,2,9,7,1,0,1,0,0.792,12.166666666666666,250000,4808
+Cucho,Columbus Crew,Centre-Forward,Colombia,COL,22,16,1298,9,2,0,0,6.7,1.3,12,7,3,5,0,5,1,0,1,3,0,0.705,24.327777777777776,2600000,50000
+César Araujo,Orlando City,Right-Back,Uruguay,URU,20,31,2458,0,0,0,0,0.7,0.6,73,41,26,9,6,28,31,2,1,4,0,0.897,35.71666666666667,180000,3462
+D.J. Taylor,Minnesota United,Right-Back,United States,USA,24,26,2087,1,2,0,0,0.6,1.9,41,31,28,2,14,15,43,1,0,4,0,0.754,40.23888888888889,85444,1643
+Dairon Asprilla,Portland Timbers,Right Winger,Colombia,COL,29,29,1847,10,2,4,4,7.8,3.2,23,15,8,3,3,9,13,2,1,4,0,0.74,36.51111111111111,350000,6731
+Damien Rivera,New England Revolution,Left Midfield,Costa Rica,CRC,19,13,417,1,0,0,0,0.9,0.2,9,5,3,2,0,8,3,2,0,0,0,0.8,8.122222222222222,84000,1615
+Damion Lowe,Inter Miami,Centre-Back,Jamaica,JAM,28,28,2383,1,1,0,0,1.3,1,59,36,45,2,35,12,53,0,2,3,0,0.8079999999999999,50.94444444444444,225000,4327
+Damir Kreilach,Real Salt Lake,Central Midfield,Croatia,CRO,32,5,300,1,0,0,0,1.3,0.1,2,2,0,0,1,0,1,0,0,0,0,0.826,4.7555555555555555,1762572,33896
+Daniel Aguirre,LA Galaxy,Central Midfield,United States,USA,22,11,374,1,1,0,0,0.3,0.7,6,2,4,1,0,3,9,0,0,2,0,0.8540000000000001,9.772222222222222,66724,1283
+Daniel Armando Ríos,Charlotte FC,Centre-Forward,Mexico,MEX,26,27,1417,7,1,1,1,6.6,1.7,14,6,0,4,3,3,1,8,0,4,0,0.748,21.633333333333336,230000,4423
+Daniel Crisostomo,Los Angeles FC,Defensive Midfield,United States,USA,25,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.833,1.0555555555555556,NA,NA
+Daniel Edelman,New York Red Bulls,Defensive Midfield,United States,USA,18,16,993,1,0,0,0,0.5,0.2,30,13,10,2,2,13,15,0,0,2,0,0.747,16.272222222222222,84000,1615
+Daniel Lovitz,Nashville SC,Left-Back,United States,USA,30,31,2618,1,4,0,0,0.9,2.6,48,30,23,6,10,16,27,2,2,4,0,0.7190000000000001,36.672222222222224,498750,9591
+Daniel Musovski,Los Angeles FC,Centre-Forward,United States,USA,26,19,558,2,1,0,0,1.9,0.6,11,4,6,5,0,1,3,0,0,1,0,0.7375,8.594444444444445,93988,1807
+Daniel Pereira,Austin FC,Central Midfield,Venezuela,VEN,21,30,2087,2,0,0,0,1.2,1.2,34,15,15,6,3,24,32,1,0,5,0,0.89,35.34444444444444,84000,1615
+Daniel Steres,Houston Dynamo,Centre-Back,United States,USA,31,18,1343,2,1,0,0,1.1,0.2,18,10,10,1,10,3,20,0,0,1,0,0.904,23.272222222222222,450000,8654
+Danny Hoesen,Austin FC,Centre-Forward,Netherlands,NED,31,14,382,3,0,0,0,2.3,0.5,1,0,0,1,0,3,0,2,0,1,0,0.688,8.244444444444444,650000,12500
+Danny Leyva,Seattle Sounders,Defensive Midfield,United States,USA,18,19,951,0,1,0,0,0.4,0.5,26,17,14,1,1,10,13,1,1,2,0,0.853,15.711111111111112,110000,2115
+Danny Trejo,Los Angeles FC,Attacking Midfield,United States,USA,23,3,45,0,0,0,0,0.1,0.1,1,1,1,0,0,1,0,0,0,0,0,0.688,1.6611111111111112,65500,1260
+Danny Wilson,Colorado Rapids,Centre-Back,Scotland,SCO,30,26,2101,0,1,0,0,1.4,0.8,25,16,16,0,24,5,12,3,0,4,0,0.8140000000000001,26.272222222222226,330000,6346
+Dantouma Toure,Colorado Rapids,Right Winger,Guinea,GUI,17,5,38,1,0,0,0,0.3,0,1,0,0,0,0,0,1,0,0,0,0,0.25,2.7166666666666663,65500,1260
+Dario Župarić,Portland Timbers,Centre-Back,Bosnia & Herzegovina,BIH,29,30,2192,0,0,0,0,0.6,0.1,20,13,15,0,11,4,22,0,0,0,0,0.833,20.61111111111111,375000,7212
+Darlington Nagbe,Columbus Crew,Central Midfield,United States,USA,31,34,3036,3,0,0,0,1.8,1.6,40,23,20,4,8,11,29,0,1,3,0,0.9259999999999999,35.522222222222226,1760000,33846
+Darren Yapi,Colorado Rapids,Centre-Forward,United States,USA,17,11,173,0,0,0,0,0.7,0.2,3,3,1,1,0,1,0,1,0,0,0,0.6,2.4499999999999997,65500,1260
+Darwin Cerén,Houston Dynamo,Defensive Midfield,El Salvador,SLV,32,27,1128,0,0,0,0,0.4,1,27,16,11,1,6,8,19,1,1,2,0,0.872,18.21666666666667,190000,3654
+Darwin Quintero,Houston Dynamo,Left Winger,Colombia,COL,34,31,1765,8,3,1,1,6,6.7,20,10,2,5,1,11,5,4,1,13,1,0.687,35.477777777777774,600000,11538
+David Ayala,Portland Timbers,Defensive Midfield,Argentina,ARG,19,21,741,0,0,0,0,0.4,0.5,26,12,13,2,2,13,15,0,2,1,0,0.8640000000000001,15.988888888888889,275000,5288
+David Bingham,Portland Timbers,Goalkeeper,United States,USA,32,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.43700000000000006,1.1722222222222223,84000,1615
+David Ochoa,D.C. United,Goalkeeper,United States,USA,21,9,810,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.713,2.5888888888888886,103500,1990
+David Romney,Nashville SC,Centre-Back,United States,USA,28,31,2643,3,2,0,0,2.9,1.9,15,10,9,1,20,8,23,6,0,3,0,0.8170000000000001,38.03333333333334,475000,9135
+Dax McCarty,Nashville SC,Central Midfield,United States,USA,34,29,1770,0,1,0,1,1.8,2.6,47,21,23,6,3,22,23,0,2,5,0,0.8390000000000001,30.21666666666667,475000,9135
+Dayne St. Clair,Minnesota United,Goalkeeper,Canada,CAN,24,32,2835,0,1,0,0,0,0.2,1,1,1,0,0,0,0,0,0,1,0,0.634,5.305555555555555,300000,5769
+DeAndre Yedlin,Inter Miami,Right-Back,United States,USA,28,34,2986,0,3,0,0,0.2,2.2,54,32,24,6,9,22,41,0,0,7,0,0.8170000000000001,42.483333333333334,800000,15385
+DeJuan Jones,New England Revolution,Left-Back,United States,USA,24,31,2737,1,5,0,0,1.3,4.2,39,25,21,4,9,24,32,3,1,12,0,0.828,47.3,350000,6731
+Deandre Kerr,Toronto FC,Right Winger,Canada,CAN,19,26,1306,3,0,0,0,2.9,0.9,19,10,6,2,0,14,9,3,0,0,0,0.7490000000000001,18.36111111111111,65500,1260
+Deiber Caicedo,Vancouver Whitecaps FC,Right Winger,Colombia,COL,21,16,985,1,2,0,0,1.6,1.7,10,8,1,2,0,6,0,3,0,5,0,0.77,11,300000,5769
+Dejan Joveljić,LA Galaxy,Centre-Forward,Serbia,SRB,22,32,1003,11,3,2,3,7.4,2.9,5,1,1,4,1,4,4,3,0,6,0,0.758,30.066666666666666,612500,11779
+Denis Bouanga,Los Angeles FC,Left Winger,Gabon,GAB,27,7,496,1,0,0,0,3.3,1.2,12,8,4,4,0,4,5,6,0,3,0,0.705,10.788888888888888,2083333,40064
+Derrick Etienne,Columbus Crew,Left Winger,Haiti,HAI,25,33,2216,9,6,0,0,7.2,4,25,15,11,3,1,21,15,6,2,8,0,0.7759999999999999,45.166666666666664,175000,3365
+Derrick Jones,Charlotte FC,Central Midfield,United States,USA,24,16,944,1,0,0,0,1.4,0.1,26,14,20,2,3,8,9,1,0,1,0,0.863,13.738888888888889,185000,3558
+Derrick Williams,LA Galaxy,Centre-Back,Ireland,IRL,29,26,2154,0,1,0,0,1.6,1.4,15,10,10,0,24,9,22,2,0,1,0,0.8740000000000001,34,750000,14423
+Diego Chará,Portland Timbers,Central Midfield,Colombia,COL,35,28,2435,0,2,0,0,0.4,1.9,73,39,35,7,13,29,35,2,1,6,0,0.877,42.81111111111111,675000,12981
+Diego Fagúndez,Austin FC,Left Winger,Uruguay,URU,26,34,2703,6,12,0,0,3.8,7.9,23,16,13,6,4,17,12,4,1,16,0,0.757,48.87777777777778,450000,8654
+Diego Gutierrez,Portland Timbers,Centre-Forward,United States,USA,22,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,1.0166666666666666,65500,1260
+Diego Luna,Real Salt Lake,Attacking Midfield,United States,USA,18,13,318,0,0,0,0,0.4,0.2,3,3,2,0,0,2,3,0,0,0,0,0.8420000000000001,4.461111111111111,84000,1615
+Diego Palacios,Los Angeles FC,Left-Back,Ecuador,ECU,22,28,2407,1,4,0,0,0.7,3.7,88,55,45,15,6,17,47,4,1,8,0,0.8170000000000001,45.86666666666667,486000,9346
+Diego Rubio,Colorado Rapids,Centre-Forward,Chile,CHI,28,30,2436,16,5,4,4,12.4,5.8,24,18,6,6,3,21,9,9,1,17,0,0.6970000000000001,56.75555555555555,585000,11250
+Djordje Mihailovic,CF Montréal,Attacking Midfield,United States,USA,23,27,1998,9,4,0,0,6,7.1,34,25,10,9,0,28,12,7,1,10,0,0.765,47.394444444444446,700000,13462
+Dom Dwyer,Atlanta United,Centre-Forward,United States,USA,31,22,617,4,0,0,0,3.9,0.6,4,1,1,2,2,3,2,1,0,2,0,0.64,12.655555555555557,84000,1615
+Domenico Criscito,Toronto FC,Left-Back,Italy,ITA,35,15,1187,1,0,0,0,0.6,1.4,38,22,23,6,5,13,23,3,0,1,0,0.807,24.272222222222226,1200000,23077
+Dominique Badji,FC Cincinnati,Centre-Forward,Senegal,SEN,29,24,1099,0,2,0,0,3.3,1.5,13,8,6,2,0,10,9,2,1,3,0,0.767,16.444444444444446,500000,9615
+Doneil Henry,Los Angeles FC,Centre-Back,Canada,CAN,28,11,276,0,0,0,0,0,0,5,3,3,0,3,1,4,0,0,0,0,0.8420000000000001,5,385000,7404
+Donovan Pines,D.C. United,Centre-Back,United States,USA,23,21,1447,0,0,0,0,0.7,0.1,37,25,22,1,16,12,34,0,0,1,0,0.785,29.17777777777778,150000,2885
+Douglas Costa,LA Galaxy,Left Winger,Brazil,BRA,31,27,1408,4,1,1,1,3,3.7,14,3,11,1,1,5,3,2,0,4,0,0.782,20.32777777777778,3000000,57692
+Drake Callender,Inter Miami,Goalkeeper,United States,USA,24,24,2160,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.715,4.177777777777777,130000,2500
+Drew Moor,Colorado Rapids,Centre-Back,United States,USA,38,9,230,0,0,0,0,0.1,0,3,1,3,0,3,1,3,0,0,0,0,0.88,4.305555555555556,150000,2885
+Drew Skundrich,D.C. United,Central Midfield,United States,USA,26,19,883,0,1,0,0,0.2,0.2,20,10,7,4,2,11,11,0,1,2,0,0.809,13.855555555555558,89513,1721
+Dru Yearwood,New York Red Bulls,Central Midfield,England,ENG,21,25,1546,2,1,0,0,1.1,0.9,42,24,15,3,2,26,24,1,3,3,1,0.7120000000000001,29.433333333333337,500000,9615
+Dylan Borrero,New England Revolution,Right Winger,Colombia,COL,20,12,602,3,1,0,0,1.7,0.9,16,7,4,4,0,4,3,1,1,3,0,0.723,11.166666666666668,550000,10577
+Dylan Nealis,New York Red Bulls,Right-Back,United States,USA,23,28,1800,0,2,0,0,0.8,0.7,83,51,37,5,9,25,39,1,0,4,0,0.654,36.45,175000,3365
+Dylan Teves,Seattle Sounders,Central Midfield,United States,USA,21,6,101,1,0,0,0,0.4,0,3,1,3,0,0,0,1,0,0,0,0,0.632,2.933333333333333,65500,1260
+Dániel Gazdag,Philadelphia Union,Attacking Midfield,Hungary,HUN,25,34,2929,22,6,7,7,16.2,5.2,36,22,9,4,2,25,11,5,1,19,0,0.722,69.98333333333335,550000,10577
+Dániel Sallói,Sporting Kansas City,Left Winger,Hungary,HUN,25,29,2528,7,3,0,1,5.8,4.1,11,5,3,6,3,8,13,5,2,12,0,0.74,33.72222222222222,450000,8654
+Earl Edwards Jr.,New England Revolution,Goalkeeper,United States,USA,30,4,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6890000000000001,1.3444444444444446,84000,1615
+Easton Ongaro,Vancouver Whitecaps FC,Centre-Forward,Canada,CAN,23,1,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.833,1.4277777777777776,NA,NA
+Eddie Munjoma,FC Dallas,Right-Back,United States,USA,23,3,99,0,0,0,0,0,0,1,1,0,1,0,0,2,0,0,0,0,0.833,1.9944444444444445,84000,1615
+Eddie Segura,Los Angeles FC,Centre-Back,Colombia,COL,24,14,828,0,0,0,0,0.2,0.1,14,6,9,0,8,5,7,1,0,0,0,0.848,11.877777777777778,200000,3846
+Edison Azcona,Inter Miami,Left Winger,Dominican Republic,DOM,18,1,18,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0.75,1.1166666666666667,65500,1260
+Edison Flores,D.C. United,Left Winger,Peru,PER,27,12,828,1,0,0,0,1.9,1,9,3,2,2,0,5,6,1,1,1,0,0.722,10.25,NA,NA
+Edwin Cerrillo,FC Dallas,Defensive Midfield,United States,USA,21,32,1892,0,0,0,0,0.2,0.4,37,20,19,0,4,13,26,0,2,0,0,0.894,24.177777777777777,130000,2500
+Edwin Mosquera,Atlanta United,Left Winger,Colombia,COL,20,12,312,0,2,0,0,0.5,0.9,4,1,2,1,0,1,2,0,0,3,0,0.705,6.077777777777778,300000,5769
+Efrain Alvarez,LA Galaxy,Attacking Midfield,Mexico,MEX,19,28,1393,3,5,0,0,4.2,4.8,9,3,4,3,1,8,5,3,0,9,0,0.7759999999999999,26.90555555555556,600000,11538
+Elias Manoel,New York Red Bulls,Centre-Forward,Brazil,BRA,20,6,358,2,1,0,0,1.1,0.3,0,0,0,0,0,3,0,1,0,1,0,0.532,6.783333333333333,360000,6923
+Elliot Panicco,Nashville SC,Goalkeeper,United States,USA,25,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.526,1.1666666666666667,85444,1643
+Eloy Room,Columbus Crew,Goalkeeper,Curaço,CUW,32,34,3060,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0.6759999999999999,4.4,800000,15385
+Ema Twumasi,FC Dallas,Right-Back,Ghana,GHA,24,31,2109,0,1,0,0,0.8,1,47,29,34,2,3,7,20,2,0,3,0,0.8390000000000001,21.622222222222224,290000,5577
+Emanuel Reynoso,Minnesota United,Attacking Midfield,Argentina,ARG,26,29,2517,10,6,3,4,7.8,8.1,34,17,5,10,1,30,13,12,2,23,1,0.682,56.81111111111111,850000,16346
+Emerson Hyndman,Atlanta United,Central Midfield,United States,USA,25,9,288,0,0,0,0,0.7,0.1,5,2,1,1,0,3,3,1,0,2,0,0.904,5.300000000000001,657143,12637
+Emerson Rodríguez,Inter Miami,Right Midfield,Colombia,COL,21,22,528,2,0,0,0,1.5,0.8,6,1,3,1,0,5,2,3,0,1,0,0.6940000000000001,8.816666666666666,315000,6058
+Emiliano Brienza,Vancouver Whitecaps FC,Centre-Forward,Canada,CAN,19,1,3,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0.833,1.1277777777777778,NA,NA
+Emiliano Rigoni,Austin FC,Right Winger,Argentina,ARG,28,7,283,0,0,0,0,0.1,1.1,6,5,1,2,1,2,0,0,0,0,0,0.731,3.8833333333333337,1846152,35503
+Emmanuel Boateng,New England Revolution,Left Midfield,Ghana,GHA,28,27,1002,2,2,0,0,1.7,2.6,9,7,2,3,1,7,6,1,0,4,0,0.763,16.755555555555556,225000,4327
+Ercan Kara,Orlando City,Centre-Forward,Austria,AUT,26,29,1776,11,3,1,1,9.4,1.6,11,5,4,0,2,5,1,3,0,5,0,0.667,30.177777777777777,1860000,35769
+Eric Miller,Nashville SC,Defence,United States,USA,29,24,1345,0,0,0,0,0.2,0.8,15,9,4,0,6,8,14,0,0,0,0,0.794,16.33888888888889,168000,3231
+Eric Remedi,San Jose Earthquakes,Defensive Midfield,Argentina,ARG,26,25,1444,0,0,0,0,0.3,0.5,34,21,14,5,3,22,21,3,0,1,0,0.857,24.750000000000004,450000,8654
+Erik Godoy,Vancouver Whitecaps FC,Centre-Back,Argentina,ARG,28,6,454,1,0,0,0,0.2,0,7,4,3,0,5,3,7,0,0,0,0,0.836,9.305555555555555,550000,10577
+Erik Holt,Real Salt Lake,Centre-Back,United States,USA,25,10,563,0,0,0,0,0.6,0.1,12,5,9,0,3,0,10,1,1,0,0,0.7609999999999999,8.083333333333334,125000,2404
+Erik Hurtado,Columbus Crew,Centre-Forward,United States,USA,31,14,423,3,0,0,0,1.3,0.5,2,0,1,0,3,1,0,0,0,2,0,0.691,7.772222222222222,84000,1615
+Erik Thommy,Sporting Kansas City,Left Midfield,Germany,GER,27,12,880,3,1,0,0,2.1,1.1,12,3,3,3,0,6,5,4,0,7,0,0.8029999999999999,14.755555555555555,1200000,23077
+Eriq Zavaleta,LA Galaxy,Centre-Back,El Salvador,SLV,29,4,205,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0.9359999999999999,2.85,84000,1615
+Eryk Williamson,Portland Timbers,Central Midfield,United States,USA,24,22,1157,0,5,0,0,0.4,2.9,15,12,5,2,2,7,13,2,1,10,0,0.802,20.283333333333335,550000,10577
+Esmir Bajraktarevic,New England Revolution,Right Winger,Bosnia & Herzegovina,BIH,16,3,122,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.8109999999999999,1.6388888888888888,65500,1260
+Ethan Bartlow,Houston Dynamo,Centre-Back,United States,USA,21,15,906,0,0,0,0,0.1,0.1,7,4,3,1,17,3,7,0,0,1,0,0.872,14.3,84000,1615
+Ethan Dobbelaere,Seattle Sounders,Right Midfield,United States,USA,19,8,273,0,0,0,0,0.1,0.2,6,4,4,0,0,2,3,0,0,0,0,0.833,3.9666666666666663,89716,1725
+Ethan Finlay,Austin FC,Right Winger,United States,USA,31,34,1823,5,5,0,0,4.5,3.1,21,12,8,7,4,14,9,3,1,7,0,0.708,31.194444444444446,350000,6731
+Ethan Zubak,Nashville SC,Centre-Forward,United States,USA,23,11,211,0,1,0,0,0.6,0.4,3,2,1,1,0,0,1,1,0,1,0,0.836,3.6555555555555554,116000,2231
+Eulânio Ângelo Chipela Gomes,FC Dallas,Right-Back,Guinea-Bissau,GNB,27,27,1191,0,2,0,0,0.5,1.6,20,12,10,4,3,6,12,0,2,3,0,0.774,16.58888888888889,NA,NA
+Everton Luiz,Real Salt Lake,Defensive Midfield,Brazil,BRA,33,12,435,0,0,0,0,0,0.1,7,5,3,0,3,3,7,0,0,0,0,0.847,6.916666666666668,NA,NA
+Fabian Herbers,Chicago Fire,Right Winger,Germany,GER,28,25,1076,1,1,0,0,1.3,1.3,29,20,9,10,1,10,6,2,2,4,0,0.733,14.355555555555556,260000,5000
+Facundo Quignon,FC Dallas,Defensive Midfield,Argentina,ARG,28,25,1285,1,0,0,0,1.2,0.5,51,28,26,2,12,9,18,0,0,1,0,0.8809999999999999,23.5,786000,15115
+Facundo Torres,Orlando City,Right Winger,Uruguay,URU,21,33,2585,9,8,1,1,4.7,5.4,36,25,12,8,3,26,12,3,0,11,0,0.7879999999999999,50.15,600000,11538
+Fafà Picault,Houston Dynamo,Left Winger,Haiti,HAI,30,30,2357,7,2,2,2,7.8,2.8,29,15,10,5,8,25,31,8,1,6,0,0.685,48.77777777777778,600000,11538
+Federico Bernardeschi,Toronto FC,Right Winger,Italy,ITA,27,13,1096,8,2,5,5,6.3,2.3,13,6,3,5,0,10,0,4,0,6,0,0.6509999999999999,25.194444444444446,3125000,60096
+Federico Navarro,Chicago Fire,Defensive Midfield,Argentina,ARG,21,30,2461,2,2,0,0,1.7,0.9,134,65,68,13,8,21,52,4,2,5,0,0.852,45.83888888888889,200004,3846
+Felipe,Austin FC,Central Midfield,Brazil,BRA,31,28,736,1,2,0,0,1.7,0.4,5,2,1,0,3,6,5,0,0,6,0,0.8140000000000001,13.305555555555557,84000,1615
+Felipe Gutiérrez,Colorado Rapids,Central Midfield,Chile,CHI,31,12,840,0,2,0,0,0.8,1.3,20,16,8,1,5,4,13,0,0,2,0,0.8059999999999999,16.316666666666666,552000,10615
+Felipe Hernandez,Sporting Kansas City,Central Midfield,United States,USA,23,34,1781,2,3,0,0,1.9,2.9,33,18,7,5,3,14,29,2,2,3,0,0.748,31.588888888888892,85444,1643
+Felipe Mora,Portland Timbers,Centre-Forward,Chile,CHI,28,7,83,1,0,1,1,1.3,0,1,0,0,0,0,0,0,0,0,1,0,0.72,3.4,875000,16827
+Florian Jungwirth,Vancouver Whitecaps FC,Centre-Back,Germany,GER,33,13,858,0,0,0,0,0,0,10,5,7,0,5,4,9,0,0,0,0,0.8390000000000001,10.17222222222222,550000,10577
+Francisco Calvo,San Jose Earthquakes,Centre-Back,Costa Rica,CRC,29,13,1170,2,0,0,0,1.7,0.5,25,12,14,3,5,2,35,3,1,3,0,0.833,26.422222222222224,NA,NA
+Francisco Ginella,Los Angeles FC,Central Midfield,Uruguay,URU,23,15,445,0,0,0,0,0.2,0.2,18,10,11,2,1,4,7,1,2,4,1,0.833,7.872222222222222,450000,8654
+Franco Escobar,Los Angeles FC,Right-Back,Argentina,ARG,26,19,1156,1,1,0,0,0.5,0.9,28,18,17,6,6,10,14,0,1,3,0,0.807,19.51111111111111,550008,10577
+Franco Fragapane,Minnesota United,Left Winger,Argentina,ARG,28,30,2019,7,2,0,0,6.1,3.8,27,17,13,7,2,17,11,2,4,9,2,0.778,36.72222222222223,249996,4808
+Franco Ibarra,Atlanta United,Defensive Midfield,Argentina,ARG,20,20,979,0,1,0,0,0.6,1,43,24,15,4,4,9,14,0,0,1,0,0.8290000000000001,16.766666666666666,450000,8654
+Franco Jara,FC Dallas,Centre-Forward,Argentina,ARG,33,30,905,3,1,1,1,5,0.9,12,6,3,4,2,4,1,1,0,2,0,0.718,14.661111111111111,2540000,48846
+Frankie Amaya,New York Red Bulls,Attacking Midfield,United States,USA,21,24,1976,1,3,0,0,0.5,1.4,56,33,25,7,1,15,26,2,0,10,0,0.763,27.11666666666667,325000,6250
+Fredy Montero,Seattle Sounders,Centre-Forward,Colombia,COL,34,26,1284,4,1,1,1,6,1.9,24,18,5,5,1,5,6,4,0,7,0,0.753,20.511111111111113,110000,2115
+Gabriel Pereira,New York City FC,Right Winger,Brazil,BRA,20,26,1345,8,2,0,0,4.5,2.9,20,14,10,5,3,15,9,3,0,7,0,0.742,31.166666666666664,555000,10673
+Gabriele Corbo,CF Montréal,Centre-Back,Italy,ITA,22,14,1132,0,0,0,0,0.3,0.6,21,14,8,2,10,4,13,0,0,1,0,0.855,15.933333333333334,120192,2311
+Gaga Slonina,Chicago Fire,Goalkeeper,United States,USA,17,32,2880,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.687,4.894444444444444,143000,2750
+Gaoussou Samaké,D.C. United,Left-Back,Côte d’Ivoire,CIV,24,3,112,0,0,0,0,0,0.1,2,2,2,0,0,1,1,0,0,0,0,0.667,2.088888888888889,84000,1615
+Gareth Bale,Los Angeles FC,Right Winger,Wales,WAL,32,12,355,2,0,0,0,2,0.6,3,2,1,0,0,0,2,2,0,1,0,0.7929999999999999,7.061111111111111,1600000,30769
+Gastón Brugman,LA Galaxy,Defensive Midfield,Uruguay,URU,29,14,1121,3,1,0,0,0.9,1.6,38,19,11,2,4,9,15,1,1,3,0,0.8759999999999999,23.42777777777778,1200000,23077
+Gastón Giménez,Chicago Fire,Defensive Midfield,Paraguay,PAR,30,22,1695,0,2,0,0,1.2,1.6,48,32,17,7,10,26,27,4,1,6,0,0.82,35.233333333333334,2060000,39615
+Gedion Zelalem,New York City FC,Central Midfield,United States,USA,25,11,197,0,0,0,0,0,0.1,4,1,1,0,2,2,4,1,0,0,0,0.8859999999999999,5.211111111111112,84000,1615
+Geoff Cameron,FC Cincinnati,Defensive Midfield,United States,USA,36,26,2113,0,1,0,0,1.2,0.7,29,15,23,0,21,8,42,3,0,1,0,0.8,36.03333333333334,387000,7442
+George Acosta,Inter Miami,Attacking Midfield,United States,USA,22,1,7,0,0,0,0,0.1,0,1,0,0,0,0,0,0,0,0,0,0,0.75,1.1333333333333335,65500,1260
+George Campbell,Atlanta United,Centre-Back,United States,USA,20,20,1476,0,0,0,0,0.7,0.7,21,11,14,3,12,12,20,0,1,1,0,0.8590000000000001,24.65,98000,1885
+George Fochive,Portland Timbers,Central Midfield,United States,USA,29,2,31,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0.857,1.4333333333333333,84000,1615
+George Marks,Charlotte FC,Goalkeeper,United States,USA,22,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8240000000000001,1.1555555555555554,65500,1260
+Giacomo Vrioni,New England Revolution,Centre-Forward,Albania,ALB,23,7,251,1,0,1,1,2.2,0,1,1,0,1,0,4,1,2,0,1,0,0.634,6.344444444444445,1500000,28846
+Giorgio Chiellini,Los Angeles FC,Centre-Back,Italy,ITA,37,11,713,0,1,0,0,0.1,0.5,10,5,9,0,7,1,14,0,1,1,0,0.826,13.322222222222223,1000000,19231
+Gonzalo Higuaín,Inter Miami,Centre-Forward,Argentina,ARG,34,28,1749,16,3,5,5,9.4,3.6,7,2,1,4,2,4,0,2,0,8,0,0.715,37.477777777777774,5100000,98077
+Graham Zusi,Sporting Kansas City,Right-Back,United States,USA,35,21,1659,2,1,0,0,0.5,1.4,32,20,24,2,4,15,27,1,0,3,0,0.787,30.200000000000003,450000,8654
+Gregore,Inter Miami,Defensive Midfield,Brazil,BRA,27,30,2700,0,2,0,0,1,1.1,107,56,42,8,11,33,36,1,1,4,0,0.862,45.205555555555556,700000,13462
+Griffin Dorsey,Houston Dynamo,Right-Back,United States,USA,22,27,1644,1,1,0,0,0.7,1.3,35,22,21,4,4,11,19,2,0,6,0,0.7859999999999999,21.972222222222225,125000,2404
+Griffin Yow,D.C. United,Left Winger,United States,USA,19,7,271,0,0,0,0,0.5,0.3,3,3,0,1,0,6,0,1,0,2,0,0.7190000000000001,4.427777777777778,NA,NA
+Gustavo Bou,New England Revolution,Centre-Forward,Argentina,ARG,31,19,1600,8,2,1,1,7.5,1.7,11,4,1,4,0,9,8,10,0,7,0,0.68,28.85,2500000,48077
+Gustavo Vallecilla,Colorado Rapids,Centre-Back,Ecuador,ECU,22,12,567,0,0,0,0,0.2,0.1,8,4,7,0,2,10,5,1,0,0,0,0.813,9.305555555555557,312000,6000
+Guzmán Corujo,Charlotte FC,Centre-Back,Uruguay,URU,25,25,2063,1,0,0,0,1.2,0.4,44,26,36,1,21,13,40,2,0,1,0,0.8540000000000001,38.96666666666667,600000,11538
+Gyasi Zardes,Columbus Crew,Centre-Forward,United States,USA,30,33,2265,10,2,0,1,12.2,3.5999999999999996,12,8,2,4,6,10,0,8,1,4,0,0.7495,37.02777777777777,1500000,28846
+Handwalla Bwana,Nashville SC,Left Winger,Somalia,SOM,24,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.778,1.038888888888889,140000,2692
+Hany Mukhtar,Nashville SC,Attacking Midfield,Germany,GER,26,33,2825,23,7,6,7,20.3,8.1,13,8,4,2,0,7,5,16,2,22,0,0.716,68.55,1637500,31490
+Haris Medunjanin,FC Cincinnati,Central Midfield,Bosnia & Herzegovina,BIH,36,20,472,0,0,0,0,0.1,1.4,11,5,5,0,1,2,5,1,1,2,0,0.8420000000000001,7.472222222222222,NA,NA
+Harrison Afful,Charlotte FC,Right-Back,Ghana,GHA,35,21,1306,0,0,0,0,0.5,0.4,13,5,6,4,4,8,13,0,0,2,0,0.8590000000000001,16.85,300000,5769
+Harrison Robledo,FC Cincinnati,Defensive Midfield,United States,USA,19,2,46,0,0,0,0,0,0.2,1,0,1,0,0,1,1,0,0,0,0,0.773,2.0944444444444446,65500,1260
+Harvey Neville,Inter Miami,Right-Back,Ireland,IRL,19,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,1.011111111111111,65500,1260
+Hassan Ndam,New York Red Bulls,Centre-Back,Cameroon,CMR,23,2,46,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0.3,1.8166666666666667,84000,1615
+Hassani Dotson,Minnesota United,Central Midfield,United States,USA,24,7,630,1,2,0,0,1.1,0.6,14,8,4,2,2,6,6,1,0,2,0,0.755,12.738888888888889,400000,7692
+Hector Jiménez,Austin FC,Left-Back,United States,USA,33,14,598,0,2,0,0,0.1,1.4,10,6,4,1,1,5,13,0,0,3,0,0.84,14.366666666666667,200000,3846
+Henry Kessler,New England Revolution,Centre-Back,United States,USA,23,22,1845,1,0,0,0,1.1,0,21,15,19,0,18,11,16,1,0,1,0,0.902,27.02777777777778,150000,2885
+Hugo-Hilaire Mbongue Mbongue,Toronto FC,Centre-Forward,Canada,CAN,17,1,23,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1.4166666666666665,65500,1260
+Héber,New York City FC,Centre-Forward,Brazil,BRA,30,29,1012,8,0,1,1,5.9,1,4,4,1,0,2,12,2,7,0,1,0,0.759,23.43888888888889,825000,15865
+Héctor Herrera,Houston Dynamo,Central Midfield,Mexico,MEX,31,10,685,0,1,0,0,0.5,0.5,13,7,5,3,4,10,5,1,0,2,0,0.857,13.133333333333335,4750000,91346
+Ian Murphy,FC Cincinnati,Centre-Back,United States,USA,22,26,1464,1,0,0,0,0.1,0.7,15,8,8,1,11,8,16,0,1,0,0,0.779,19.794444444444444,65500,1260
+Ifunanyachi Achara,Toronto FC,Centre-Forward,United States,USA,24,15,382,0,1,0,0,0.3,0.4,9,6,3,2,0,9,4,0,0,1,0,0.77,8.55,84000,1615
+Ilie Sánchez,Los Angeles FC,Defensive Midfield,Spain,ESP,31,33,2677,1,0,0,0,1,2,52,31,20,7,9,14,49,3,1,6,0,0.83,40.96666666666666,1150000,22115
+Indiana Vassilev,Inter Miami,Left Winger,United States,USA,20,24,1059,2,0,0,0,1.9,0.6,11,6,1,2,2,3,1,2,2,2,0,0.809,9.55,84000,1615
+Isaac Atanga,FC Cincinnati,Right Winger,Ghana,GHA,21,1,45,0,0,0,0,0,0.2,1,0,1,0,0,1,0,0,0,0,0,0.4,1.6222222222222222,350000,6731
+Isaac Boehmer,Vancouver Whitecaps FC,Goalkeeper,United States,USA,20,3,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6709999999999999,1.2833333333333332,65500,1260
+Ismael Tajouri-Shradi,Los Angeles FC,Right Winger,Libya,LBY,27,6,167,2,0,0,0,0.6,0.3,1,1,0,1,0,1,0,0,0,0,0,0.8270000000000001,4.6722222222222225,606375,11661
+Ismaël Koné,CF Montréal,Central Midfield,Canada,CAN,19,26,1582,2,4,0,0,1.5,2.4,14,5,3,1,4,19,12,3,1,10,1,0.857,29.133333333333333,65500,1260
+Iván Angulo,Orlando City,Left Winger,Colombia,COL,22,9,548,0,2,0,0,0.9,0.8,7,4,4,1,0,1,5,0,0,2,0,0.8440000000000001,7.883333333333334,348000,6692
+J.T. Marcinkowski,San Jose Earthquakes,Goalkeeper,United States,USA,24,33,2925,0,0,0,0,0,0,2,1,2,0,0,0,1,0,0,0,0,0.733,5.677777777777777,300000,5769
+Jacen Russell-Rowe,Columbus Crew,Centre-Forward,Canada,CAN,19,6,228,0,2,0,0,0.4,0.5,3,3,0,1,0,0,1,1,0,3,0,0.667,4.522222222222222,65500,1260
+Jack Elliott,Philadelphia Union,Centre-Back,England,ENG,26,32,2860,2,1,0,0,3.1,0.9,53,35,36,2,27,17,41,5,0,5,0,0.759,47.21666666666667,700000,13462
+Jack Lynn,Orlando City,Centre-Forward,United States,USA,22,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,65500,1260
+Jack Maher,Nashville SC,Centre-Back,United States,USA,22,27,1855,2,0,0,0,0.7,0.2,22,17,14,0,12,6,24,0,0,2,0,0.882,25.550000000000004,130000,2500
+Jack McGlynn,Philadelphia Union,Central Midfield,United States,USA,18,23,1018,1,3,0,0,0.8,1.5,15,10,8,3,0,9,7,5,0,7,0,0.836,16.794444444444444,77500,1490
+Jack Price,Colorado Rapids,Central Midfield,England,ENG,29,17,1110,0,1,0,0,0,2.3,17,5,5,2,1,7,12,0,0,3,0,0.836,16.05,662500,12740
+Jack Skahan,San Jose Earthquakes,Central Midfield,United States,USA,23,10,96,1,0,0,0,0.1,1,0,0,0,0,0,1,1,0,0,0,0,0.77,4.161111111111111,84000,1615
+Jackson Conway,Atlanta United,Centre-Forward,United States,USA,20,3,36,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,1.411111111111111,84000,1615
+Jackson Hopkins,D.C. United,Centre-Forward,United States,USA,17,21,904,0,1,0,0,0.6,1.5,10,3,2,3,1,3,1,0,0,1,0,0.735,7.4111111111111105,65500,1260
+Jackson Ragen,Seattle Sounders,Centre-Back,United States,USA,23,23,1391,0,0,0,0,0.7,0.2,21,11,15,0,11,7,13,1,0,0,0,0.8740000000000001,18.344444444444445,65500,1260
+Jackson Yueill,San Jose Earthquakes,Central Midfield,United States,USA,24,31,2690,4,2,0,0,1.9,1.9,32,18,16,4,8,18,28,3,0,2,0,0.865,41.111111111111114,700000,13462
+Jacob Shaffelburg,Toronto FC,Left Winger,Canada,CAN,22,21,1087,2,1,0,0,2.2,0.8,17,11,9,4,1,20,9,4,1,5,0,0.5835,20.66111111111111,NA,NA
+Jacori Hayes,Minnesota United,Central Midfield,United States,USA,26,8,75,0,1,0,0,0.1,0,4,4,0,0,0,0,2,0,0,1,0,0.794,3.0500000000000003,190000,3654
+Jahkeele Marshall-Rutty,Toronto FC,Right-Back,Canada,CAN,17,17,621,0,0,0,0,0.1,0.3,14,11,6,3,3,7,13,0,0,0,0,0.863,12.633333333333335,130000,2500
+Jairo Quinteros,Inter Miami,Centre-Back,Bolivia,BOL,20,4,282,0,0,0,0,0.1,0,6,4,1,1,1,0,8,0,0,0,0,0.861,5.283333333333333,NA,NA
+Jairo Torres,Chicago Fire,Right Winger,Mexico,MEX,21,14,687,0,0,0,0,1.1,0.6,8,5,4,0,2,6,3,2,0,2,0,0.698,8.061111111111112,849996,16346
+Jake Davis,Sporting Kansas City,Central Midfield,United States,USA,20,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.917,1.0611111111111111,65500,1260
+Jake Mulraney,Orlando City,Left Midfield,Ireland,IRL,25,24,912,1,0,0,0,0.8999999999999999,0.7,22,11,11,3,0,9,3,3,1,0,0,0.7280000000000001,9.666666666666668,301600,5800
+Jake Nerwinski,Vancouver Whitecaps FC,Right-Back,United States,USA,27,24,1809,0,0,0,0,0.5,0,24,14,16,2,9,6,32,1,0,1,0,0.795,24.53888888888889,265000,5096
+Jakob Glesnes,Philadelphia Union,Centre-Back,Norway,NOR,27,34,3060,0,2,0,0,0.7,1.6,46,26,43,0,31,13,58,3,0,5,0,0.815,51.716666666666676,675000,12981
+Jalil Anibaba,Columbus Crew,Centre-Back,United States,USA,33,5,226,0,0,0,0,0,0,3,3,1,0,4,1,0,0,0,0,0,0.826,3.5555555555555554,150000,2885
+James Igbekeme,Columbus Crew,Central Midfield,Nigeria,NGA,26,23,901,0,0,0,0,1.5,0.5,30,20,15,3,0,3,12,1,0,1,0,0.785,10.78888888888889,315000,6058
+James Pantemis,CF Montréal,Goalkeeper,Canada,CAN,24,11,990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.818,2.1722222222222225,145000,2788
+Jamiro Monteiro,San Jose Earthquakes,Central Midfield,Cape Verde,CPV,28,31,2637,4,6,0,0,2.9,5.1,48,34,14,10,1,25,14,5,4,12,1,0.8320000000000001,42.71666666666667,1200000,23077
+Jan Sobociński,Charlotte FC,Centre-Back,Poland,POL,22,9,379,0,0,0,0,0.1,0,6,3,4,0,5,1,6,0,0,0,0,0.774,6.811111111111112,325000,6250
+Jared Stroud,Austin FC,Left Winger,United States,USA,25,5,45,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0.5,1.4333333333333333,84000,1615
+Jarosław Niezgoda,Portland Timbers,Centre-Forward,Poland,POL,26,30,1969,9,2,0,0,6.5,3.4,13,6,2,5,3,1,8,5,1,9,0,0.723,28.305555555555554,807500,15529
+Jason Pendant,New York Red Bulls,Left-Back,France,FRA,24,5,79,0,0,0,0,0.1,0.1,4,4,2,1,1,0,0,0,0,0,0,0.6859999999999999,1.7333333333333334,NA,NA
+Jasper Löffelsend,Real Salt Lake,Central Midfield,Germany,GER,24,30,1626,1,3,0,0,0.8,1.4,37,23,20,3,4,14,15,1,0,7,0,0.809,24.049999999999997,84000,1615
+Javain Brown,Vancouver Whitecaps FC,Centre-Back,Jamaica,JAM,22,27,1858,1,0,0,0,0.8,1.2,38,25,29,3,21,9,21,3,1,2,0,0.7609999999999999,28.883333333333336,84000,1615
+Javier Casas,Chicago Fire,Central Midfield,United States,USA,18,5,38,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0.8,1.1111111111111112,84000,1615
+Javier Eduardo López,San Jose Earthquakes,Attacking Midfield,Mexico,MEX,27,4,234,1,0,0,0,0.3,0.1,3,3,1,0,0,0,0,0,0,1,0,0.7090000000000001,2.805555555555556,NA,NA
+Javier Hernández,LA Galaxy,Centre-Forward,Mexico,MEX,33,32,2583,18,2,3,6,18.3,2.4,10,6,1,5,2,2,6,10,1,11,0,0.742,48.349999999999994,6000000,115385
+Jayden Nelson,Toronto FC,Left Winger,Canada,CAN,19,31,1969,1,2,0,0,2.2,1.2,40,22,15,8,1,20,13,2,1,4,0,0.8140000000000001,24.977777777777778,130000,2500
+Jaylin Lindsey,Charlotte FC,Right-Back,United States,USA,21,26,1669,0,1,0,0,0.2,1.7,25,16,14,1,9,16,26,0,0,4,0,0.8290000000000001,29.483333333333334,200000,3846
+Jaziel Orozco,Real Salt Lake,Centre-Back,United States,USA,17,4,315,0,0,0,0,0.2,0,6,2,5,0,2,1,3,2,0,1,0,0.7559999999999999,4.116666666666667,65500,1260
+Jean Mota,Inter Miami,Central Midfield,Brazil,BRA,28,33,2660,2,2,0,0,2,3.2,65,37,33,8,7,32,31,4,5,9,1,0.825,46.705555555555556,700000,13462
+Jefferson Savarino,Real Salt Lake,Right Winger,Venezuela,VEN,25,19,1522,7,4,0,0,4.5,4.2,12,7,5,2,0,7,5,4,0,6,0,0.7240000000000001,27.86111111111111,2000000,38462
+Jeremy Ebobisse,San Jose Earthquakes,Centre-Forward,United States,USA,24,34,2944,17,2,2,2,15.2,2.4,8,5,0,2,8,5,2,7,0,6,0,0.8140000000000001,46.67777777777778,620734,11937
+Jesús Daniel Bueno,Philadelphia Union,Defensive Midfield,Venezuela,VEN,22,1,13,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0.7140000000000001,1.4277777777777776,140000,2692
+Jesús David Murillo,Los Angeles FC,NA,Colombia,COL,27,29,2339,2,3,0,0,2.1,1.4,46,33,35,3,12,21,38,2,1,4,0,0.807,43.1888888888889,450000,8654
+Jesús Ferreira,FC Dallas,Centre-Forward,United States,USA,21,33,2658,18,6,0,0,11.6,5,23,11,7,6,0,10,15,6,1,13,0,0.713,55.044444444444444,1300000,25000
+Jesús Jiménez,Toronto FC,Centre-Forward,Spain,ESP,28,33,2342,9,3,0,0,7.8,4.1,12,7,4,4,1,10,6,2,1,7,0,0.762,34.355555555555554,815000,15673
+Jhegson Méndez,Los Angeles FC,Defensive Midfield,Ecuador,ECU,24,22,633,0,0,0,0,0.2,0.5,14,9,7,2,6,9,8,0,1,2,0,0.8919999999999999,13.333333333333334,600000,11538
+Jhohan Romaña,Austin FC,Centre-Back,Colombia,COL,23,10,336,0,0,0,0,0.2,0,6,2,3,0,2,3,6,0,0,1,0,0.863,6.616666666666667,440000,8462
+Jhojan Valencia,Austin FC,Defensive Midfield,Colombia,COL,25,13,471,0,1,0,0,0,0.2,11,4,8,0,2,6,5,1,0,1,0,0.8270000000000001,8.53888888888889,355000,6827
+Jhon Espinoza,Chicago Fire,Right-Back,Ecuador,ECU,22,19,493,0,0,0,0,0.6,0.4,9,4,5,1,0,9,7,0,1,0,0,0.731,9.216666666666667,216000,4154
+Jimmy Maurer,FC Dallas,Goalkeeper,United States,USA,33,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.603,1.211111111111111,275000,5288
+Jimmy Medranda,Seattle Sounders,Left-Back,Colombia,COL,27,21,651,0,2,0,0,0.9,1.5,22,17,13,3,1,6,10,4,1,1,0,0.7759999999999999,13.73888888888889,200000,3846
+Joaquín Torres,CF Montréal,Right Winger,Argentina,ARG,25,27,1311,3,2,0,1,3.8,2.2,9,3,4,2,0,6,3,1,0,7,0,0.73,17.477777777777778,230000,4423
+Joe Willis,Nashville SC,Goalkeeper,United States,USA,33,32,2880,0,1,0,0,0,0.1,0,0,0,0,0,1,2,0,0,1,0,0.6990000000000001,6.983333333333333,300000,5769
+Joel Waterman,CF Montréal,Centre-Back,Canada,CAN,26,30,2671,3,2,0,0,2.7,1.5,29,17,18,1,10,13,36,2,0,5,0,0.882,43.37777777777777,125000,2404
+Joevin Jones,Inter Miami,Left-Back,Trinidad and Tobago,TRI,30,8,123,0,0,0,0,0,0.2,5,4,3,2,0,0,1,0,0,0,0,0.9179999999999999,2.033333333333333,360000,6923
+Joey DeZart,Orlando City,Defensive Midfield,Jamaica,JAM,23,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0166666666666666,89716,1725
+Johan Kappelhof,Real Salt Lake,Centre-Back,Netherlands,NED,31,6,540,1,0,0,0,0.8,0.1,8,6,6,0,7,5,8,0,2,0,0,0.856,12.18888888888889,260000,5000
+John McCarthy,Los Angeles FC,Goalkeeper,United States,USA,29,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,1.1166666666666667,110000,2115
+John Nelson,FC Cincinnati,Left-Back,United States,USA,23,24,1203,0,1,0,0,0.2,0.9,17,8,14,2,2,13,15,1,1,2,0,0.7490000000000001,17.67222222222222,65500,1260
+John Pulskamp,Sporting Kansas City,Goalkeeper,United States,USA,20,12,1028,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.7509999999999999,2.3055555555555554,89716,1725
+John Tolkin,New York Red Bulls,Left-Back,United States,USA,19,31,2744,1,3,0,0,1.6,2.5,91,56,30,12,3,28,73,3,3,7,0,0.6759999999999999,55.75555555555556,100000,1923
+Johnny Russell,Sporting Kansas City,Right Winger,Scotland,SCO,31,33,2698,8,1,3,4,8.1,4.2,22,10,5,5,3,18,16,2,0,7,0,0.6940000000000001,40.766666666666666,2000000,38462
+Jojea Kwizera,CF Montréal,Central Midfield,Rwanda,RWA,23,8,276,0,1,0,0,0.1,0.1,5,3,0,2,0,6,2,0,0,1,0,0.785,6.272222222222222,65500,1260
+Jon Bell,New England Revolution,Centre-Back,Jamaica,JAM,24,15,1053,1,0,0,0,0.4,0.1,10,8,5,1,8,3,19,0,0,1,0,0.7959999999999999,16.9,84000,1615
+Jon Gallagher,Austin FC,Left Winger,Ireland,IRL,25,32,2127,1,4,0,0,0.4,1.9,35,20,20,4,4,18,32,1,1,4,0,0.807,36.37777777777778,155000,2981
+Jon Kempin,D.C. United,Goalkeeper,United States,USA,28,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.565,1.1444444444444444,84000,1615
+Jonathan Bond,LA Galaxy,Goalkeeper,England,ENG,28,34,3060,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,3,0,0.778,6.211111111111111,475000,9135
+Jonathan Bornstein,Chicago Fire,Left-Back,United States,USA,37,22,1201,1,0,0,0,0.1,0.6,19,13,8,2,1,7,13,1,0,0,0,0.789,13.366666666666667,300000,5769
+Jonathan González,Minnesota United,Defensive Midfield,Mexico,MEX,22,8,195,1,0,0,0,0.4,0.1,5,1,1,1,0,1,0,0,0,0,0,0.747,3.2777777777777777,240000,4615
+Jonathan Lewis,Colorado Rapids,Left Winger,United States,USA,24,33,2208,5,2,0,0,8.1,2.1,22,10,5,3,2,14,4,11,0,9,0,0.7190000000000001,28.06111111111111,410000,7885
+Jonathan Mensah,Columbus Crew,Centre-Back,Ghana,GHA,31,30,2572,2,1,0,0,1.6,0.2,21,11,13,1,21,9,29,3,0,1,0,0.8859999999999999,37.62777777777778,1000000,19231
+Jonathan Osorio,Toronto FC,Central Midfield,Canada,CAN,29,23,1687,9,4,0,0,4.3,1.7,37,18,17,6,4,19,22,1,0,9,0,0.899,43.75,1000000,19231
+Jonathan Perez,LA Galaxy,Left Winger,Mexico,MEX,19,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1.011111111111111,150000,2885
+Jony,Real Salt Lake,Left Winger,Argentina,ARG,27,4,144,0,0,0,0,0.4,0,2,1,0,1,0,1,1,1,0,1,0,0.727,2.3333333333333335,500000,9615
+Jordan Morris,Seattle Sounders,Left Winger,United States,USA,27,29,2316,7,2,0,0,9.6,4.5,20,10,9,4,5,16,8,8,1,9,0,0.765,38.26666666666667,1250000,24038
+Jordan Perruzza,Toronto FC,Centre-Forward,Canada,CAN,21,13,232,0,0,0,0,0.4,0.4,1,0,0,1,0,3,0,2,0,2,0,0.636,3.1555555555555554,84000,1615
+Jordy Alcivar,Charlotte FC,Defensive Midfield,Ecuador,ECU,22,20,1019,1,1,0,0,0.8,1.7,14,4,8,0,1,3,13,3,0,3,0,0.78,14.583333333333334,235000,4519
+Josef Martínez,Atlanta United,Centre-Forward,Venezuela,VEN,28,26,1465,9,4,1,1,8.7,2.2,1,0,0,1,0,2,1,2,0,5,0,0.831,27.466666666666665,3750000,72115
+Joseph Mora,Charlotte FC,Left-Back,Costa Rica,CRC,29,23,1716,0,0,0,0,0.1,1.2,39,24,18,7,6,18,25,1,1,1,0,0.767,26.51666666666667,200000,3846
+Joseph Rosales,Minnesota United,Central Midfield,Honduras,HON,21,24,1052,0,2,0,0,0.6,1,33,19,12,4,2,13,16,1,0,4,0,0.853,19.733333333333334,65500,1260
+Josh Williams,Columbus Crew,Centre-Back,United States,USA,33,23,1427,0,1,0,0,0.4,0.5,10,6,6,1,13,3,30,0,0,1,0,0.8690000000000001,24.916666666666668,325000,6250
+Joshua Atencio,Seattle Sounders,Defensive Midfield,United States,USA,20,18,725,0,0,0,0,0.3,0.1,18,10,7,1,1,5,12,1,0,1,0,0.848,11.144444444444444,84000,1615
+Joshué Quiñónez,FC Dallas,NA,Ecuador,ECU,20,7,100,0,0,0,0,0,0,3,3,1,0,1,0,4,0,0,0,0,0.838,3.3166666666666664,180000,3462
+José Andrés Martínez,Philadelphia Union,Defensive Midfield,Venezuela,VEN,27,30,2518,0,2,0,0,0.9,0.7,64,39,29,5,12,24,46,4,1,5,0,0.7859999999999999,42.89444444444445,250000,4808
+José Cifuentes,Los Angeles FC,Central Midfield,Ecuador,ECU,22,33,2345,7,6,0,0,5.6,5.2,56,33,19,9,1,24,19,6,1,14,1,0.7829999999999999,48.05555555555555,367875,7075
+José Martínez,FC Dallas,Centre-Back,Spain,ESP,28,31,2620,0,0,0,0,0.9,0.1,24,13,14,0,17,4,37,2,1,1,0,0.848,34.25,650000,12500
+José Mauri,Sporting Kansas City,Central Midfield,Italy,ITA,25,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,1.0888888888888888,NA,NA
+José Van Rankin,Portland Timbers,Right-Back,Mexico,MEX,28,24,1916,1,0,0,0,0.8,1,35,22,25,2,3,4,29,2,0,2,0,0.8440000000000001,22.91111111111111,85000,1635
+Jozy Altidore,New England Revolution,Centre-Forward,United States,USA,32,17,597,1,0,0,0,1.7,0.3,3,2,0,2,1,2,1,0,0,0,0,0.703,6.272222222222222,3706139,71272
+João Moutinho,Orlando City,Left-Back,Portugal,POR,24,28,2457,2,1,0,0,1.5,1.7,69,47,43,9,6,22,30,1,2,4,0,0.7559999999999999,37.516666666666666,220000,4231
+João Paulo Mior,Seattle Sounders,Central Midfield,Brazil,BRA,30,6,453,1,0,0,0,0.3,0.7,14,8,8,3,4,4,5,2,0,2,0,0.787,9.805555555555555,1200000,23077
+Juan David Mosquera,Portland Timbers,NA,Colombia,COL,19,3,189,0,0,0,0,0.1,0,1,0,1,0,0,1,2,0,0,1,0,0.752,2.8222222222222224,160000,3077
+Juan José Sánchez,Atlanta United,Centre-Back,Colombia,COL,24,17,1452,6,0,0,0,2.3,0.1,18,15,14,0,13,13,20,0,0,0,0,0.831,31.60555555555556,NA,NA
+Judson,San Jose Earthquakes,Defensive Midfield,Brazil,BRA,28,16,657,0,0,0,0,0.1,0.1,34,18,14,2,3,8,20,1,2,1,0,0.9179999999999999,15.63888888888889,420000,8077
+Julian Araujo,LA Galaxy,Right-Back,Mexico,MEX,20,33,2741,0,5,0,0,1.5,4.1,67,46,29,10,3,24,45,2,1,10,0,0.83,48.83888888888889,575000,11058
+Julian Gressel,D.C. United,Right Midfield,United States,USA,28,30,2351,2,6,0,0,3.4000000000000004,5,46,26,25,6,2,16,31,4,2,12,1,0.6459999999999999,42.42777777777778,914000,17577
+Julio Cascante,Austin FC,Centre-Back,Costa Rica,CRC,28,32,2714,3,2,0,0,3.8,0.9,36,22,30,1,29,5,28,5,0,7,0,0.85,44.355555555555554,310000,5962
+Julián Carranza,Philadelphia Union,Centre-Forward,Argentina,ARG,21,31,2210,14,6,2,3,14.1,2.5,44,22,6,9,2,14,10,11,0,16,0,0.7290000000000001,50.43888888888889,900000,17308
+Junior Moreno,FC Cincinnati,Defensive Midfield,Venezuela,VEN,28,27,2038,2,0,0,0,0.9,1.1,48,22,26,4,10,21,34,1,2,3,0,0.8590000000000001,35.72222222222222,325000,6250
+Justen Glad,Real Salt Lake,Centre-Back,United States,USA,24,26,2303,3,0,0,0,3.1,0.4,22,15,15,1,14,7,34,2,0,2,0,0.8590000000000001,35.65,675000,12981
+Justin Haak,New York City FC,Central Midfield,United States,USA,20,15,764,0,0,0,0,0,0.4,17,8,10,1,4,8,9,1,0,0,0,0.87,11.55,85444,1643
+Justin Meram,Real Salt Lake,Left Winger,Iraq,IRQ,33,33,2276,3,6,0,0,3,6.7,21,12,9,7,2,19,19,4,1,13,0,0.764,40.333333333333336,425000,8173
+Justin Rasmussen,Portland Timbers,Left-Back,United States,USA,23,9,646,0,0,0,0,0.2,0.3,12,9,6,0,3,1,5,1,0,0,0,0.696,6.5,65500,1260
+Justin Rennicks,New England Revolution,Centre-Forward,United States,USA,22,17,780,2,0,0,0,1.7,0.3,8,2,3,1,2,4,2,1,0,1,0,0.7,8.627777777777776,110000,2115
+Jáder Durán,Chicago Fire,NA,Colombia,COL,18,27,1367,8,3,0,0,8,1.8,13,11,3,4,3,11,3,4,2,5,0,0.696,29.794444444444444,120000,2308
+Jáder Obrian,FC Dallas,Right Winger,Colombia,COL,26,31,1343,2,2,0,0,3.7,2.7,23,16,11,4,2,17,7,5,0,4,0,0.6940000000000001,23.233333333333334,382500,7356
+Ján Greguš,San Jose Earthquakes,Central Midfield,Slovakia,SVK,31,27,1680,0,5,0,0,0.9,2.4,29,13,19,2,3,6,17,1,2,8,0,0.865,25.972222222222225,600000,11538
+Júnior Urso,Orlando City,Central Midfield,Brazil,BRA,32,34,2559,5,4,0,0,4.9,2.6,43,23,24,4,4,27,22,5,1,12,0,0.86,44.27777777777778,750000,14423
+Kacper Przybyłko,Chicago Fire,Centre-Forward,Poland,POL,28,25,1603,5,1,0,0,6.5,2,7,2,0,2,3,4,5,6,1,3,0,0.726,22.316666666666666,1100004,21154
+Kadin Chung,Toronto FC,Right-Back,Canada,CAN,23,8,450,0,1,0,0,0,0.1,14,10,6,3,1,3,8,0,0,1,0,0.8009999999999999,7.994444444444445,65500,1260
+Kai Wagner,Philadelphia Union,Left-Back,Germany,GER,24,33,2950,0,8,0,0,0.6,7.8,44,30,26,1,12,28,55,1,1,13,0,0.684,62.06111111111111,510000,9808
+Kalil ElMedkhar,FC Dallas,Left Winger,United States,USA,22,5,102,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0.778,1.9555555555555557,66724,1283
+Kamal Miller,CF Montréal,Centre-Back,Canada,CAN,24,27,2295,2,3,0,0,2.8,2.3,25,14,15,2,8,6,29,2,0,6,0,0.836,35.916666666666664,300000,5769
+Kamil Jóźwiak,Charlotte FC,Left Winger,Poland,POL,23,19,1151,0,3,0,0,1.7,2.7,26,15,10,7,0,11,8,0,3,4,1,0.738,18.32222222222222,900000,17308
+Karol Świderski,Charlotte FC,Centre-Forward,Poland,POL,25,30,2458,10,4,0,0,9.2,2.8,25,10,5,12,2,10,3,10,0,9,0,0.6940000000000001,35.45,2200000,42308
+Kayden Pierre,Sporting Kansas City,Right-Back,United States,USA,18,19,953,0,1,0,0,0.1,0.3,28,15,14,5,4,6,4,0,0,3,0,0.8340000000000001,10.627777777777778,65500,1260
+Keaton Parks,New York City FC,Defensive Midfield,United States,USA,24,18,1025,2,0,0,0,2,1.1,24,12,10,2,3,5,6,4,1,7,1,0.885,15.38888888888889,500000,9615
+Keegan Rosenberry,Colorado Rapids,Right-Back,United States,USA,28,34,2961,2,1,0,0,0.8,1.6,36,20,16,3,17,18,42,1,0,4,0,0.792,44.233333333333334,400000,7692
+Kei Kamara,CF Montréal,Centre-Forward,Sierra Leone,SLE,37,32,1561,9,7,0,0,6.6,2.6,13,8,1,4,2,11,6,3,1,12,1,0.7040000000000001,36,84000,1615
+Kellyn Acosta,Los Angeles FC,Defensive Midfield,United States,USA,26,32,2549,2,4,0,0,2,4.4,38,22,19,3,5,21,14,3,0,6,0,0.802,35.977777777777774,1100000,21154
+Kelvin Leerdam,LA Galaxy,Right-Back,Suriname,SUR,31,10,479,0,0,0,0,0.2,0,10,4,5,2,2,2,5,0,0,1,0,0.863,6.3,300000,5769
+Kelyn Rowe,Seattle Sounders,Central Midfield,United States,USA,30,28,1307,1,1,0,0,0.8,0.4,28,17,15,2,2,17,18,1,1,3,0,0.737,22.36111111111111,275000,5288
+Kemar Lawrence,Minnesota United,Left-Back,Jamaica,JAM,29,27,2305,1,2,0,0,0.4,0.8,20,14,12,2,6,11,30,0,0,2,0,0.764,28.505555555555556,400000,7692
+Kendall Burks,Chicago Fire,Centre-Back,United States,USA,22,4,182,0,0,0,0,0.3,0,0,0,0,0,0,2,2,0,0,0,0,0.816,3.2944444444444447,84000,1615
+Kendall McIntosh,Sporting Kansas City,Goalkeeper,United States,USA,28,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8140000000000001,1.1944444444444444,120000,2308
+Kervin Arriaga,Minnesota United,Defensive Midfield,Honduras,HON,24,24,1892,1,0,0,0,1.2,0.4,33,19,8,7,14,13,19,2,0,0,0,0.84,26.722222222222225,84000,1615
+Kerwin Vargas,Charlotte FC,Centre-Forward,Colombia,COL,20,13,633,0,0,0,0,0.9,1.1,10,8,1,3,0,7,1,4,0,0,0,0.738,7.355555555555556,350000,6731
+Kevin Cabral,LA Galaxy,Left Winger,France,FRA,22,33,1679,1,3,0,0,5.3,3.6,31,13,12,7,1,16,6,6,1,4,0,0.762,25.355555555555558,1650000,31731
+Kevin Molino,Columbus Crew,Right Winger,Trinidad and Tobago,TRI,31,11,441,1,0,0,0,0.4,0.2,7,4,2,2,0,2,4,0,0,2,0,0.802,6.15,700348,13468
+Kevin O'Toole,New York City FC,Left-Back,United States,USA,23,3,270,0,0,0,0,0.2,0.1,7,5,4,0,1,5,2,0,0,0,0,0.6940000000000001,4.916666666666667,65500,1260
+Khiry Shelton,Sporting Kansas City,Centre-Forward,United States,USA,28,24,1407,1,1,0,0,2.1,0.5,12,4,0,6,1,10,2,1,0,2,0,0.753,12.03888888888889,350000,6731
+Kieran Gibbs,Inter Miami,Left-Back,England,ENG,32,15,635,0,0,0,0,0.9,0.2,14,8,5,0,1,3,13,0,2,0,0,0.772,10.572222222222223,370000,7115
+Kim Moonhwan,Los Angeles FC,Right-Back,South Korea,KOR,26,1,78,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0.8170000000000001,2.0722222222222224,NA,NA
+Kimarni Smith,D.C. United,Centre-Forward,England,ENG,23,17,358,1,1,0,0,0.8,0.4,7,4,3,2,1,2,3,1,0,3,0,0.7170000000000001,7.288888888888889,85444,1643
+Kipp Keller,Austin FC,Centre-Back,United States,USA,21,6,318,0,0,0,0,0,0,2,2,1,0,3,0,3,0,0,1,0,0.91,4.633333333333334,84000,1615
+Koa Santos,Charlotte FC,Right-Back,United States,USA,22,1,56,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0.625,1.0555555555555556,65500,1260
+Kobe Franklin,Toronto FC,Right-Back,Canada,CAN,18,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1.0055555555555555,NA,NA
+Kortne Ford,Sporting Kansas City,Centre-Back,United States,USA,26,14,807,0,0,0,0,0.1,0.1,11,7,6,1,6,2,14,0,0,0,0,0.812,12.066666666666666,150000,2885
+Kosi Thompson,Toronto FC,Right Midfield,Canada,CAN,19,24,1620,1,1,0,0,0.8,1,28,16,14,2,12,10,30,1,0,3,0,0.7829999999999999,29.06666666666667,65500,1260
+Kristian Fletcher,D.C. United,Left Winger,United States,USA,16,2,62,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0.778,2.477777777777778,NA,NA
+Kristijan Kahlina,Charlotte FC,Goalkeeper,Croatia,CRO,29,31,2790,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0.736,6.655555555555555,425000,8173
+Kwadwo Opoku,Los Angeles FC,Right Winger,Ghana,GHA,20,34,1770,7,2,0,0,7.4,4,24,15,6,7,1,7,8,9,2,6,0,0.82,29.949999999999996,92000,1769
+Kyle Duncan,New York Red Bulls,Right-Back,United States,USA,24,9,593,0,0,0,0,0.1,0.4,16,12,10,2,0,10,7,1,0,3,0,0.5770000000000001,9.405555555555557,268212,5158
+Kyle Smith,Orlando City,Right-Back,United States,USA,30,29,1388,2,0,0,0,0.7,0.6,44,27,30,5,5,17,12,0,0,0,0,0.7509999999999999,21.28888888888889,128580,2473
+Lalas Abubakar,Colorado Rapids,Centre-Back,Ghana,GHA,27,32,2522,4,1,0,0,2.4,0.5,33,16,22,1,29,17,49,2,1,1,0,0.865,53.00555555555555,235000,4519
+Larrys Mabiala,Portland Timbers,Centre-Back,Congo - Kinshasa,COD,34,21,1561,0,1,0,0,0.3,0.2,19,12,15,1,13,5,15,1,0,0,0,0.84,19.672222222222224,450000,8654
+Lassi Lappalainen,CF Montréal,Left Winger,Finland,FIN,23,28,1928,3,5,0,0,3.8,3.2,43,29,17,9,2,26,14,0,2,10,0,0.78,36.98888888888889,510000,9808
+Latif Blessing,Los Angeles FC,Attacking Midfield,Ghana,GHA,25,30,1334,0,1,0,0,1.8,1.5,35,22,11,7,2,18,19,4,0,4,0,0.83,23.472222222222225,400000,7692
+Leon Flach,Philadelphia Union,Central Midfield,United States,USA,20,34,2745,0,2,0,0,0.7,1.2,87,53,42,3,6,25,50,2,1,2,0,0.768,40.477777777777774,250000,4808
+Leonard Owusu,Vancouver Whitecaps FC,Central Midfield,Ghana,GHA,24,19,877,0,0,0,0,0.1,0.3,11,8,6,1,1,8,9,0,0,0,0,0.9059999999999999,10.255555555555555,350000,6731
+Leonardo Campana,Inter Miami,Centre-Forward,Ecuador,ECU,21,26,1585,11,1,0,0,8.4,1.9,9,4,2,5,3,7,2,2,0,6,0,0.7759999999999999,29.638888888888886,84000,1615
+Lewis Morgan,New York Red Bulls,Left Winger,Scotland,SCO,25,32,2659,14,3,6,6,10.3,4.4,63,34,20,17,3,32,17,8,2,7,0,0.5770000000000001,56.31666666666667,650000,12500
+Logan Ndenbe,Sporting Kansas City,Left-Back,Belgium,BEL,21,22,1753,0,0,0,0,0.2,0.7,29,18,14,3,3,10,18,0,0,0,0,0.792,19.705555555555556,350000,6731
+Lorenzo Insigne,Toronto FC,Left Winger,Italy,ITA,30,11,926,6,2,0,1,3.9,2.5,9,5,5,1,0,6,10,6,0,3,0,0.768,24.522222222222222,14000000,269231
+Luca Petrasso,Toronto FC,Left-Back,Canada,CAN,21,23,1679,0,2,0,0,0.7,1.8,23,13,7,5,6,11,18,1,0,5,0,0.706,23.2,65500,1260
+Lucas Cavallini,Vancouver Whitecaps FC,Centre-Forward,Canada,CAN,29,24,1516,9,1,2,2,7.1,2,20,10,7,7,1,10,4,5,0,6,0,0.725,27.694444444444446,1200000,23077
+Lucas Esteves,Colorado Rapids,Left-Back,Brazil,BRA,21,30,2270,1,2,0,0,1.7,2.5,47,24,33,8,4,19,27,3,3,6,0,0.747,32.733333333333334,373032,7174
+Lucas Zelarayán,Columbus Crew,Attacking Midfield,Armenia,ARM,29,29,2316,10,7,1,1,5.8,7.8,31,16,4,10,0,10,15,6,0,19,0,0.7120000000000001,47.022222222222226,3100000,59615
+Luciano Acosta,FC Cincinnati,Attacking Midfield,Argentina,ARG,27,30,2491,10,12,3,4,9.3,12.3,48,28,22,9,1,24,8,6,3,30,0,0.682,63.04444444444445,1943500,37375
+Luis Amarilla,Minnesota United,Centre-Forward,Paraguay,PAR,26,33,2349,9,4,0,0,8.9,3.5,19,12,3,5,1,8,3,8,0,10,0,0.7290000000000001,33.68333333333333,650000,12500
+Luis Díaz,Columbus Crew,Right Midfield,Costa Rica,CRC,23,26,1531,3,5,0,0,1.8,2.6,19,9,6,9,0,14,9,0,0,8,0,0.701,24.305555555555557,375000,7212
+Luiz Araújo,Atlanta United,Right Winger,Brazil,BRA,25,28,2189,4,5,0,1,9,5,43,27,15,12,0,22,12,15,2,8,0,0.7170000000000001,41.34444444444445,3600000,69231
+Lukas MacNaughton,Toronto FC,Centre-Back,Canada,CAN,26,25,1787,0,0,0,0,0.7,0.2,13,6,8,1,15,14,26,0,0,0,0,0.8440000000000001,28.544444444444444,84000,1615
+Luke Haakenson,Nashville SC,Left Winger,United States,USA,24,25,597,0,3,0,0,1,1.4,10,6,6,1,4,3,1,1,0,4,0,0.7659999999999999,10.311111111111112,84000,1615
+Luquinhas,New York Red Bulls,Attacking Midfield,Brazil,BRA,25,30,1937,5,3,0,0,3.1,2,27,16,3,8,1,23,15,4,4,10,0,0.71,31.811111111111114,1050000,20192
+Luís Martins,Vancouver Whitecaps FC,Left-Back,Portugal,POR,29,12,471,0,0,0,0,0.2,0.5,4,3,2,1,4,2,6,3,0,3,0,0.7070000000000001,7.411111111111112,300000,5769
+Léo Chú,Seattle Sounders,Left Winger,Brazil,BRA,21,25,817,0,2,0,0,2,1.1,19,12,9,3,1,8,6,2,0,4,0,0.7190000000000001,12.994444444444444,550000,10577
+Maarten Paes,FC Dallas,Goalkeeper,Indonesia,IDN,23,32,2880,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.684,4.655555555555555,150000,2885
+Machop Malual,Atlanta United,Right Winger,South Sudan,SSD,23,6,80,0,0,0,0,0.1,0,4,1,2,0,0,2,0,0,0,0,0,0.865,2.1500000000000004,65500,1260
+Maciel,New England Revolution,Central Midfield,Brazil,BRA,22,16,684,0,1,0,0,0,0.3,18,13,6,3,3,11,14,0,0,2,0,0.89,15.261111111111111,69902,1344
+Maikel Chang,Real Salt Lake,Right Midfield,Cuba,CUB,30,33,1835,2,4,0,0,2.5,4,40,25,8,14,0,19,12,3,1,8,0,0.716,28.694444444444443,98261,1890
+Malte Amundsen,New York City FC,Left-Back,Denmark,DEN,23,27,2094,0,1,0,0,0.7,2.8,48,30,26,7,2,19,37,2,0,5,0,0.758,34.25555555555556,270000,5192
+Mamadou Fall,Los Angeles FC,Centre-Back,Senegal,SEN,19,16,1200,1,1,0,0,1.9,1.1,22,17,15,0,12,9,18,1,1,2,0,0.797,24.983333333333334,NA,NA
+Marcelino Moreno,Atlanta United,Attacking Midfield,Argentina,ARG,27,30,1767,2,5,0,1,3.6,5.5,31,18,7,6,0,7,10,5,0,12,0,0.763,27.983333333333334,460000,8846
+Marcelo Silva,Real Salt Lake,Centre-Back,Uruguay,URU,32,31,2774,2,0,0,0,2.1,0.7,40,28,32,0,18,12,53,4,0,2,0,0.892,45.2,600000,11538
+Marco Farfan,FC Dallas,Left-Back,United States,USA,23,32,2725,1,3,0,0,0.5,2.3,45,26,25,3,12,19,28,0,0,8,0,0.833,38.45,225000,4327
+Marcos López,San Jose Earthquakes,Left-Back,Peru,PER,22,17,1385,1,0,0,0,0.8,0.4,27,14,18,3,10,10,31,3,0,2,0,0.762,27.355555555555558,NA,NA
+Marcus Godinho,Vancouver Whitecaps FC,Right-Back,Canada,CAN,24,23,1019,0,0,0,0,0.3,0.3,15,11,9,1,1,6,7,0,1,2,0,0.7979999999999999,9.222222222222223,85444,1643
+Marinos Tzionis,Sporting Kansas City,Left Winger,Cyprus,CYP,20,27,779,1,0,0,0,2.1,0.9,8,5,1,1,0,1,6,2,0,0,0,0.7509999999999999,9.105555555555556,612500,11779
+Mark-Anthony Kaye,Toronto FC,Central Midfield,Canada,CAN,27,25,1908,3,2,0,0,2.5,2,59,29,16,14,6,20,29,2,3,6,0,0.825,36.90555555555556,700000,13462
+Marky Delgado,LA Galaxy,Central Midfield,United States,USA,26,29,2515,2,2,1,1,1.5,2,67,28,25,10,7,33,41,2,2,4,0,0.877,50.61666666666667,650000,12500
+Marlon Hairston,Columbus Crew,Right Winger,United States,USA,27,3,153,0,0,0,0,0,0.1,4,4,1,1,0,0,2,0,0,0,0,0.865,2.327777777777778,175000,3365
+Martín Cáceres,LA Galaxy,Centre-Back,Uruguay,URU,34,6,429,0,1,0,0,0.1,0,6,3,3,0,1,1,4,0,0,1,0,0.963,6.238888888888889,240000,4615
+Martín Rodríguez,D.C. United,Left Winger,Chile,CHI,27,14,904,0,1,0,0,0.3,1.3,5,4,1,2,0,8,7,0,2,4,0,0.7140000000000001,11.277777777777777,456000,8769
+Marvin Loría,Portland Timbers,Right Winger,Costa Rica,CRC,24,28,803,2,1,0,1,2.5,0.8,6,2,0,3,1,8,17,4,0,6,0,0.742,19.427777777777777,125000,2404
+Mason Stajduhar,Orlando City,Goalkeeper,United States,USA,24,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.792,1.211111111111111,89716,1725
+Mason Toye,CF Montréal,Centre-Forward,United States,USA,23,18,726,2,0,0,0,3.1,0.3,3,1,0,1,0,2,3,2,0,1,0,0.746,9.116666666666665,500000,9615
+Matai Akinmboni,D.C. United,Centre-Back,United States,USA,15,2,120,0,0,0,0,0,0,2,1,2,0,0,0,2,0,0,0,0,0.81,2.0833333333333335,65500,1260
+Matheus Rossetto,Atlanta United,Central Midfield,Brazil,BRA,25,24,1602,0,1,0,0,0.6,0.9,32,18,14,6,3,14,13,2,1,3,0,0.907,21.916666666666668,550000,10577
+Mathieu Choiniere,CF Montréal,Left Midfield,Canada,CAN,22,26,1379,2,0,0,0,1.1,1,35,19,14,4,3,22,11,0,0,2,0,0.848,23.266666666666666,125000,2404
+Matko Miljevic,CF Montréal,Left Winger,United States,USA,20,22,694,1,1,1,1,2.3,1.6,13,9,4,3,0,3,5,4,0,2,0,0.81,11.850000000000001,545455,10490
+Matt Bersano,San Jose Earthquakes,Goalkeeper,United States,USA,29,2,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8540000000000001,1.1944444444444444,106375,2046
+Matt Hedges,FC Dallas,Centre-Back,United States,USA,31,28,2226,1,0,0,0,1.7,0.6,27,19,19,0,25,10,27,2,0,0,0,0.847,35.611111111111114,900000,17308
+Matt Miazga,FC Cincinnati,Centre-Back,United States,USA,26,10,828,2,0,0,0,0.5,0.9,15,8,11,1,11,6,16,2,0,1,0,0.804,19.35,1464000,28154
+Matt Polster,New England Revolution,Defensive Midfield,United States,USA,28,28,2116,2,0,0,0,1.6,0.6,56,29,15,13,11,15,38,2,4,3,0,0.885,37.87222222222222,325000,6250
+Matt Turner,New England Revolution,Goalkeeper,United States,USA,27,5,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.831,1.7666666666666666,NA,NA
+Matthew Real,Philadelphia Union,Left-Back,United States,USA,22,8,173,1,0,0,0,0.1,0,4,1,2,0,1,2,5,1,0,0,0,0.693,5.5888888888888895,105000,2019
+Matías Pellegrini,New York City FC,Left Winger,Argentina,ARG,21,4,63,0,0,0,0,0.1,0.1,2,1,1,0,0,1,1,0,0,0,0,0.726,2.25,875000,16827
+Matías Vera,Houston Dynamo,Defensive Midfield,Argentina,ARG,26,28,2184,0,0,0,0,0.5,0.3,56,32,28,4,8,19,22,0,0,3,0,0.9179999999999999,27.51666666666667,550000,10577
+Mauricio Pereyra,Orlando City,Attacking Midfield,Uruguay,URU,31,32,2531,1,8,0,1,2.9,5.8,56,29,23,11,3,17,26,5,0,11,0,0.7859999999999999,44.28333333333333,1100000,21154
+Mauricio Pineda,Chicago Fire,Centre-Back,United States,USA,24,27,1998,1,0,0,0,1.5,1.3,35,22,15,2,6,15,23,2,0,4,0,0.847,26.97777777777778,225000,4327
+Max,Colorado Rapids,Attacking Midfield,Brazil,BRA,20,28,904,0,1,0,0,2.3,1.1,20,10,8,0,3,9,11,3,0,3,0,0.794,16.416666666666668,212000,4077
+Max Anchor,Vancouver Whitecaps FC,Goalkeeper,Canada,CAN,17,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.684,1.0722222222222222,NA,NA
+Maxime Chanot,New York City FC,Centre-Back,Luxembourg,LUX,32,22,1441,1,1,0,0,0.7,0.1,21,14,11,0,12,12,19,1,2,2,1,0.858,25.472222222222225,700000,13462
+Maxime Crépeau,Los Angeles FC,Goalkeeper,Canada,CAN,27,33,2970,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.718,5.661111111111111,275000,5288
+Maximiliano Moralez,New York City FC,Attacking Midfield,Argentina,ARG,34,29,2100,2,6,0,1,3.9,7.6,46,30,14,11,2,24,10,5,2,12,0,0.777,42.5,670000,12885
+Maximiliano Urruti,Austin FC,Centre-Forward,Argentina,ARG,30,32,2184,9,0,0,0,6.3,1.3,24,13,6,3,2,21,8,7,1,6,0,0.76,31.266666666666666,625000,12019
+McKinze Gaines,Charlotte FC,Right Winger,United States,USA,23,24,1073,1,4,0,0,1.8,4,11,9,5,4,0,5,4,2,0,5,0,0.68,16.616666666666667,84000,1615
+Memo Rodriguez,Houston Dynamo,Left Midfield,United States,USA,26,30,1501,0,3,0,0,2.4,2.6,34,17,14,7,1,8,17,4,3,5,0,0.7829999999999999,22.327777777777776,285000,5481
+Mender García,Minnesota United,Centre-Forward,Colombia,COL,23,9,532,1,0,0,0,1.5,0.3,4,3,1,2,0,4,7,1,0,0,0,0.723,8.649999999999999,300000,5769
+Micael,Houston Dynamo,Centre-Back,Brazil,BRA,21,1,45,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.852,1.1277777777777778,NA,NA
+Michael Baldisimo,Vancouver Whitecaps FC,Defensive Midfield,Philippines,PHI,21,13,455,0,0,0,0,0.2,0.3,14,8,6,1,4,2,2,0,1,3,0,0.8240000000000001,5.788888888888889,107415,2066
+Michael Barrios,Colorado Rapids,Right Winger,Colombia,COL,30,34,1906,2,6,0,0,4.3,5.9,20,10,6,4,0,19,7,3,1,11,0,0.638,31.55,650000,12500
+Michael Boxall,Minnesota United,Centre-Back,New Zealand,NZL,33,31,2790,0,0,0,0,1.3,0.5,43,29,28,1,27,15,46,3,1,1,0,0.852,43.48888888888889,602210,11581
+Michael Bradley,Toronto FC,Central Midfield,United States,USA,34,34,3049,3,3,0,0,1,1.8,63,33,29,5,13,16,41,3,0,10,0,0.855,47.62222222222222,1500000,28846
+Michael Estrada,D.C. United,Centre-Forward,Ecuador,ECU,25,16,861,4,3,1,1,3.3,2,4,3,2,1,0,3,2,1,0,5,0,0.627,15.794444444444444,NA,NA
+Michael Halliday,Orlando City,Right-Back,United States,USA,19,6,50,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0.8240000000000001,1.5555555555555554,89716,1725
+Michael Nelson,Houston Dynamo,Goalkeeper,United States,USA,26,2,155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8420000000000001,1.1777777777777778,125000,2404
+Miguel Berry,Columbus Crew,Centre-Forward,Spain,ESP,24,30,1682,2,0,0,0,3.7,1.6,8,4,0,2,1,12,2,3,0,0,0,0.7,15.344444444444445,120000,2308
+Miguel Navarro,Chicago Fire,Left-Back,Venezuela,VEN,22,25,2172,0,1,0,0,0.4,2.2,52,27,29,5,13,28,55,0,3,4,1,0.7509999999999999,48.7,200004,3846
+Miguel Trauco,San Jose Earthquakes,Left-Back,Peru,PER,29,3,137,0,2,0,0,0,0.1,1,1,1,0,0,1,5,1,0,2,0,0.737,5.888888888888889,100000,1923
+Mikael Uhre,Philadelphia Union,Centre-Forward,Denmark,DEN,27,27,1617,13,3,0,0,8.1,2.7,8,5,3,3,2,8,2,6,0,15,0,0.612,33.644444444444446,1400000,26923
+Mikey Ambrose,Atlanta United,Left-Back,United States,USA,28,2,46,0,0,0,0,0.1,0,1,1,1,0,0,1,0,0,0,0,0,0.882,1.6666666666666667,85444,1643
+Miles Robinson,Atlanta United,Centre-Back,United States,USA,24,9,659,0,0,0,0,0.4,0.1,8,4,3,0,7,9,6,0,0,0,0,0.853,12.422222222222222,700000,13462
+Miloš Degenek,Columbus Crew,Centre-Back,Australia,AUS,27,28,2236,0,0,0,0,0.8,0.3,31,18,19,1,14,18,36,2,2,1,0,0.84,35.233333333333334,715000,13750
+Mo Adams,Inter Miami,Central Midfield,England,ENG,25,8,354,0,0,0,0,0,0,22,9,12,2,1,2,6,0,0,0,0,0.873,5.133333333333333,NA,NA
+Mohamed Farsi,Columbus Crew,Right-Back,Algeria,ALG,22,7,85,0,1,0,0,0,0.2,4,2,3,0,0,1,1,0,0,2,0,0.804,3.25,65500,1260
+Moses Nyeman,D.C. United,Defensive Midfield,United States,USA,18,2,142,0,0,0,0,0,0,5,2,3,1,0,1,2,0,0,0,0,0.6890000000000001,2.4333333333333336,NA,NA
+Moussa Djitte,Austin FC,Centre-Forward,Senegal,SEN,22,17,462,4,2,0,0,2.6,0.7,4,4,1,2,0,0,1,3,0,1,0,0.8,11.011111111111111,550000,10577
+Nabi Kibunguchy,Minnesota United,NA,Kenya,KEN,24,2,180,0,0,0,0,0.1,0,5,3,1,1,1,4,1,0,0,0,0,0.762,3.677777777777778,66724,1283
+Nacho Gil,New England Revolution,Left Winger,Spain,ESP,26,4,201,0,0,0,0,0.1,1.5,2,1,1,1,0,3,4,0,0,0,0,0.792,5.822222222222223,100000,1923
+Nathan Byrne,Charlotte FC,Right-Back,England,ENG,29,5,290,0,0,0,0,0,0,6,4,3,1,1,1,4,0,0,0,0,0.807,4.238888888888889,560000,10769
+Nathan Cardoso,San Jose Earthquakes,Centre-Back,Brazil,BRA,26,26,2271,3,0,0,0,2.8,0.1,61,33,39,3,20,11,56,1,0,1,0,0.8690000000000001,48.68333333333334,650000,12500
+Nathan Fogaça,Portland Timbers,Centre-Forward,Brazil,BRA,22,11,409,2,0,0,0,2.1,0.1,1,1,1,0,0,1,2,1,0,1,0,0.6829999999999999,6.794444444444444,65500,1260
+Nathan Harriel,Philadelphia Union,Right-Back,United States,USA,20,25,1768,1,1,0,0,1.7,0.5,71,43,43,5,4,18,42,1,1,3,0,0.6409999999999999,33.61666666666667,90000,1731
+Nelson Quiñones,Houston Dynamo,Left Winger,Colombia,COL,19,8,122,0,0,0,0,0.1,0.2,2,2,1,0,0,0,2,0,0,0,0,0.6890000000000001,2.272222222222222,150996,2904
+Nicholas Gioacchini,Orlando City,Centre-Forward,United States,USA,21,6,138,0,0,0,0,0.3,0.1,1,0,1,0,0,0,1,1,0,0,0,0.655,1.9999999999999998,350004,6731
+Nick Besler,Real Salt Lake,Central Midfield,United States,USA,28,11,251,0,0,0,0,0,0.1,9,6,5,1,0,5,3,0,0,0,0,0.873,4.911111111111111,210000,4038
+Nick DePuy,LA Galaxy,Centre-Back,United States,USA,27,18,1292,0,0,0,0,0.8,0.2,12,8,10,0,9,6,11,3,0,1,0,0.8590000000000001,15.644444444444446,231000,4442
+Nick Hagglund,FC Cincinnati,Centre-Back,United States,USA,29,32,2715,1,1,0,0,1.6,1.3,37,23,22,2,13,10,42,0,0,3,0,0.764,36.75555555555555,84000,1615
+Nick Lima,Austin FC,Right-Back,United States,USA,27,34,2344,0,4,0,0,0.8,2.6,37,24,22,7,11,29,36,1,0,7,0,0.802,44.68333333333334,350000,6731
+Nick Markanich,FC Cincinnati,Centre-Forward,Philippines,PHI,22,9,110,0,0,0,0,1.2,0,5,1,3,2,0,3,1,0,0,0,0,0.735,3.938888888888889,65500,1260
+Nick Marsman,Inter Miami,Goalkeeper,Netherlands,NED,31,7,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.722,1.9944444444444445,474996,9135
+Nicolas Isimat-Mirin,Sporting Kansas City,Centre-Back,France,FRA,30,28,2276,0,0,0,0,0.6,0.6,36,25,21,3,20,14,26,1,1,1,0,0.88,33.00555555555555,950000,18269
+Nicolás Acevedo,New York City FC,Defensive Midfield,Uruguay,URU,22,31,2264,0,0,0,0,0.7,0.6,73,41,29,5,2,37,42,0,0,4,0,0.8440000000000001,42.33333333333333,200000,3846
+Nicolás Lodeiro,Seattle Sounders,Attacking Midfield,Uruguay,URU,32,28,2316,7,7,4,5,6.5,7.5,32,15,10,5,0,22,14,2,1,13,0,0.7879999999999999,51.95,2640000,50769
+Nicolás Mezquida,Colorado Rapids,Attacking Midfield,Uruguay,URU,30,9,112,0,0,0,0,0.1,0.2,5,2,2,0,0,2,4,0,1,0,0,0.629,3.916666666666667,NA,NA
+Nigel Robertha,D.C. United,Centre-Forward,Netherlands,NED,23,17,715,1,3,0,0,0.7,2.3,2,1,0,0,0,4,2,1,1,4,1,0.736,11.511111111111111,550000,10577
+Niko Hansen,Minnesota United,Right Winger,Denmark,DEN,27,5,100,0,1,0,0,0.1,0.2,0,0,0,0,0,1,2,1,0,1,0,0.743,3.6444444444444444,200400,3854
+Niko Tsakiris,San Jose Earthquakes,Central Midfield,United States,USA,16,10,370,0,0,0,0,0.4,0.3,7,5,3,0,0,4,3,0,0,2,0,0.847,5.455555555555556,65500,1260
+Nikola Vujnović,Sporting Kansas City,Centre-Forward,Montenegro,MNE,25,9,334,0,0,0,0,0.7,0.3,2,0,2,0,2,4,0,0,0,0,0,0.69,4.722222222222222,NA,NA
+Nkosi Tafari,FC Dallas,Centre-Back,United States,USA,24,27,1326,0,0,0,0,0.3,0.2,17,8,11,2,6,4,20,2,0,0,0,0.851,17.605555555555554,197950,3807
+Noah Allen,Inter Miami,Left-Back,United States,USA,17,8,324,0,0,0,0,0.1,0,10,5,7,1,1,2,3,0,0,1,0,0.7340000000000001,4.083333333333334,65500,1260
+Noble Okello,Toronto FC,Defensive Midfield,Canada,CAN,21,8,350,0,0,0,0,0.6,0.1,10,5,3,0,1,3,7,0,0,0,0,0.75,6.8500000000000005,115000,2212
+Noel Buck,New England Revolution,Central Midfield,England,ENG,16,7,292,1,0,0,0,0.5,0.8,9,4,3,1,0,4,2,0,0,0,0,0.7340000000000001,6.083333333333334,65500,1260
+Nouhou Tolo,Seattle Sounders,Left-Back,Cameroon,CMR,24,30,2502,1,2,0,0,0.9,1.8,53,30,33,4,18,14,43,1,1,4,0,0.831,43,300000,5769
+Nuno Santos,Charlotte FC,Attacking Midfield,Portugal,POR,22,4,159,1,0,0,0,0.7,0,2,1,0,0,0,2,1,1,0,2,0,0.767,4.45,500000,9615
+Obed Vargas,Seattle Sounders,Central Midfield,Mexico,MEX,16,13,851,0,0,0,0,0.3,0.5,20,11,11,3,5,7,4,0,0,0,0,0.843,10.07777777777778,65500,1260
+Obinna Nwobodo,FC Cincinnati,Defensive Midfield,Nigeria,NGA,25,24,2064,0,2,0,0,0.2,1.2,88,49,46,6,10,28,32,1,2,3,0,0.85,37.67777777777778,900000,17308
+Ola Kamara,D.C. United,Centre-Forward,Norway,NOR,32,30,1491,9,1,1,1,7.3,1.2,9,8,3,4,2,3,5,6,0,2,0,0.695,24.927777777777777,1500000,28846
+Olivier Mbaizo,Philadelphia Union,Right-Back,Cameroon,CMR,24,19,1307,0,2,0,0,0.2,2.7,21,12,16,1,6,11,14,1,0,7,0,0.7609999999999999,20.88888888888889,300000,5769
+Omar Gonzalez,New England Revolution,Centre-Back,United States,USA,33,17,762,0,0,0,0,0.5,0,11,6,7,0,5,4,13,0,0,0,0,0.8440000000000001,12.105555555555556,425000,8173
+Omir Fernandez,New York Red Bulls,Right Winger,United States,USA,22,27,1441,2,3,0,0,2.1,2.7,25,12,6,7,1,23,15,2,1,7,0,0.6659999999999999,27.494444444444447,140000,2692
+Oniel Fisher,Minnesota United,Right-Back,Jamaica,JAM,30,11,631,0,0,0,0,0,0.1,6,5,4,0,5,7,11,0,0,1,0,0.769,11.816666666666666,120000,2308
+Oriol Rosell,Sporting Kansas City,Defensive Midfield,Spain,ESP,29,18,901,0,1,0,0,0.5,0.3,21,16,8,2,3,6,19,0,1,1,0,0.863,16.65,475000,9135
+Oskar Ågren,San Jose Earthquakes,Centre-Back,Sweden,SWE,23,3,249,0,0,0,0,0.1,0,4,2,1,1,2,1,4,0,0,0,0,0.919,4.783333333333333,65500,1260
+Osvaldo Alonso,Atlanta United,Defensive Midfield,Cuba,CUB,36,4,331,0,0,0,0,0,0,5,2,5,0,3,2,4,0,0,3,0,0.873,5.75,84000,1615
+Ousseni Bouda,San Jose Earthquakes,Left Winger,Burkina Faso,BFA,21,9,118,0,0,0,0,0.3,0.1,4,2,1,2,0,4,0,1,0,2,0,0.74,3.2055555555555557,84000,1615
+Owen Wolff,Austin FC,Right Midfield,United States,USA,17,24,913,0,1,0,0,0.3,1.6,17,11,5,3,3,8,15,2,2,2,1,0.818,16.05,65500,1260
+Pablo Bonilla,Portland Timbers,Right-Back,Venezuela,VEN,22,6,252,0,0,0,0,0,0.1,5,4,5,0,2,0,1,0,1,1,0,0.68,2.7611111111111115,132000,2538
+Pablo Ruíz,Real Salt Lake,Central Midfield,Argentina,ARG,23,29,2413,2,4,1,2,4.3,4.2,69,43,26,9,5,34,28,6,2,9,0,0.807,48.71666666666666,450000,8654
+Pablo Sisniega,Charlotte FC,Goalkeeper,Mexico,MEX,26,2,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,1.2777777777777777,180000,3462
+Patryk Klimala,New York Red Bulls,Centre-Forward,Poland,POL,23,28,1638,5,3,2,3,8.2,2.4,13,3,1,6,2,9,1,1,0,4,0,0.511,25.183333333333334,1000000,19231
+Paul Arriola,FC Dallas,Right Winger,United States,USA,26,32,2562,10,5,0,0,6.7,6.8,41,23,9,18,3,20,11,7,3,11,1,0.691,46.922222222222224,1100000,21154
+Paul Marie,San Jose Earthquakes,Right-Back,France,FRA,26,32,2238,1,1,0,0,1.4,2.1,55,26,31,3,13,25,34,3,4,4,0,0.815,40.916666666666664,145000,2788
+Paul Rothrock,Toronto FC,Centre-Forward,United States,USA,23,2,34,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0.778,1.038888888888889,NA,NA
+Paxten Aaronson,Philadelphia Union,Attacking Midfield,United States,USA,18,23,432,1,0,0,0,1.3,0.6,15,11,7,2,0,10,3,2,2,2,0,0.802,9.63888888888889,107500,2067
+Paxton Pomykal,FC Dallas,Attacking Midfield,United States,USA,22,33,2432,0,2,0,0,1.1,2.1,78,39,33,9,4,26,25,1,2,10,1,0.8190000000000001,34.12222222222222,700000,13462
+Pedro Gallese,Orlando City,Goalkeeper,Peru,PER,31,32,2880,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0.782,4.372222222222222,515000,9904
+Pedro Santos,Columbus Crew,Right Winger,Portugal,POR,33,29,2333,1,2,0,1,1.8,2.5,86,50,54,3,7,26,42,4,3,7,0,0.74,44.67222222222222,625000,12019
+Pedro Vite,Vancouver Whitecaps FC,Central Midfield,Ecuador,ECU,19,24,1193,2,2,0,0,1.5,2.7,21,9,4,6,0,8,8,4,0,3,0,0.805,18.15,556000,10692
+Pierre Reedy,Real Salt Lake,Midfield,United States,USA,24,1,8,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2.6,NA,NA
+Quentin Westberg,Toronto FC,Goalkeeper,United States,USA,35,10,900,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.7090000000000001,2.5,300000,5769
+Quinn McNeill,Charlotte FC,Central Midfield,United States,USA,23,11,664,1,1,0,0,0.5,0.2,13,7,7,2,0,8,4,0,0,2,0,0.838,9.588888888888889,65500,1260
+Quinn Sullivan,Philadelphia Union,Attacking Midfield,United States,USA,17,17,245,1,0,0,0,0.7,0.6,6,5,2,1,0,3,3,0,0,0,0,0.657,6.061111111111111,100000,1923
+Rafael Czichos,Chicago Fire,Centre-Back,Germany,GER,31,26,2331,3,0,0,0,2.7,0.8,43,29,29,1,20,11,46,3,0,2,0,0.8190000000000001,44,1300000,25000
+Rafael Romo,D.C. United,Goalkeeper,Venezuela,VEN,31,14,1212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.731,3.4,250000,4808
+Raheem Edwards,LA Galaxy,Left-Back,Canada,CAN,26,30,2275,1,3,0,0,1.3,2.3,82,44,39,9,2,22,33,3,0,11,0,0.804,37.44444444444444,275000,5288
+Ralph Priso-Mbongue,Toronto FC,Defensive Midfield,Canada,CAN,19,16,468,1,0,0,0,0.2,0.7,24,15,15,4,2,6,10,0,0,0,0,0.8045,11.433333333333334,85444,1643
+Randall Leal,Nashville SC,Left Winger,Costa Rica,CRC,25,28,2128,2,5,1,1,3.5,5.4,39,23,19,5,3,22,13,9,1,12,0,0.727,35.66666666666667,850000,16346
+Ranko Veselinović,Vancouver Whitecaps FC,Centre-Back,Serbia,SRB,22,31,2761,1,2,0,0,0.8,1.1,41,30,32,2,25,7,33,3,0,4,0,0.8490000000000001,37.011111111111106,405000,7788
+Ravel Morrison,D.C. United,Attacking Midfield,Jamaica,JAM,28,14,967,2,0,0,0,1,0.3,11,9,4,1,1,2,9,3,1,0,0,0.871,11.427777777777779,850000,16346
+Ray Gaddis,FC Cincinnati,Right-Back,United States,USA,32,23,1132,0,0,0,0,0.1,1.4,24,12,10,4,4,12,13,0,1,1,1,0.782,16.65,230000,4423
+Rayan Raveloson,LA Galaxy,Defensive Midfield,Madagascar,MAD,25,22,1781,3,2,0,0,4.3,1.3,28,14,11,3,5,12,15,2,1,6,0,0.851,28.53888888888889,NA,NA
+Raúl Gudiño,Atlanta United,Goalkeeper,Mexico,MEX,25,6,495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.799,1.7944444444444443,200000,3846
+Raúl Ruidíaz,Seattle Sounders,Centre-Forward,Peru,PER,31,18,1302,9,1,1,1,7.1,1.1,2,1,0,1,0,5,1,6,0,6,0,0.789,23.094444444444445,2472000,47538
+Reed Baker-Whiting,Seattle Sounders,Central Midfield,United States,USA,16,2,95,0,0,0,0,0.6,0.1,1,1,0,0,0,0,0,1,0,0,0,0.619,1.7722222222222221,65500,1260
+Richie Laryea,Toronto FC,Right-Back,Canada,CAN,27,10,862,0,3,0,0,0,2,14,6,9,2,3,7,7,0,0,7,0,0.9059999999999999,15.216666666666667,1170402,22508
+Rida Zouhir,CF Montréal,Central Midfield,Canada,CAN,18,5,122,0,0,0,0,0.1,0.6,0,0,0,0,0,0,0,0,0,0,0,0.7440000000000001,2.022222222222222,66724,1283
+Riqui Puig,LA Galaxy,Central Midfield,Spain,ESP,22,10,826,3,2,1,2,3,1.4,11,5,4,2,0,6,8,0,1,6,0,0.9129999999999999,19.633333333333333,1612500,31010
+Robbie Robinson,Inter Miami,Left Winger,United States,USA,23,8,485,1,1,0,0,0.6,0.8,6,3,4,1,0,4,3,1,0,1,0,0.784,7.9444444444444455,140000,2692
+Robert Taylor,Inter Miami,Left Winger,Finland,FIN,27,33,2222,3,2,0,0,3.7,3.1,17,8,7,1,2,21,29,0,1,7,0,0.7759999999999999,37.18888888888889,252000,4846
+Robert Voloder,Sporting Kansas City,Centre-Back,Bosnia & Herzegovina,BIH,20,12,719,1,0,0,0,0,0.1,10,8,6,0,4,1,12,0,0,0,0,0.8420000000000001,11.261111111111111,400000,7692
+Roberto Avila,Houston Dynamo,Left Winger,United States,USA,21,8,159,0,0,0,0,0.2,0,2,2,0,0,0,2,1,0,0,0,0,0.889,2.5333333333333337,NA,NA
+Robin Jansson,Orlando City,Centre-Back,Sweden,SWE,30,22,1970,1,1,0,0,1,0.3,24,18,21,0,17,7,24,2,0,1,0,0.8640000000000001,28.422222222222224,525000,10096
+Robin Lod,Minnesota United,Left Midfield,Finland,FIN,28,30,2492,6,2,0,0,7.2,3,58,34,17,11,5,22,24,4,3,7,0,0.8540000000000001,44.144444444444446,849996,16346
+Rocco Ríos Novo,Atlanta United,Goalkeeper,Argentina,ARG,19,16,1395,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.88,3.966666666666667,108000,2077
+Rodney Redes,Austin FC,Right Winger,Paraguay,PAR,21,12,172,0,0,0,0,0.4,0,3,1,2,0,0,1,2,0,0,0,0,0.5920000000000001,2.8333333333333335,412500,7933
+Rodrigo Schlegel,Orlando City,Centre-Back,Argentina,ARG,24,29,2168,1,0,0,0,1,0.3,50,25,35,0,22,12,36,2,0,1,0,0.875,37,200000,3846
+Rodrigues,San Jose Earthquakes,Centre-Back,Brazil,BRA,24,7,622,0,0,0,0,0,0,19,11,15,1,8,4,15,0,0,0,0,0.8420000000000001,13.544444444444444,550000,10577
+Roger Espinoza,Sporting Kansas City,Central Midfield,Honduras,HON,35,30,1868,2,1,0,0,2.3,2,47,32,6,6,3,19,27,5,1,6,0,0.787,31.666666666666668,300000,5769
+Romain Métanire,Minnesota United,Right-Back,Madagascar,MAD,31,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.65,1.0722222222222222,720000,13846
+Roman Celentano,FC Cincinnati,Goalkeeper,United States,USA,21,27,2430,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0.594,3.6444444444444444,84000,1615
+Romell Quioto,CF Montréal,Centre-Forward,Honduras,HON,30,30,2045,15,5,4,5,14.8,4.4,6,3,1,4,1,8,2,8,0,12,0,0.6679999999999999,46.68333333333333,800000,15385
+Ronald Hernández,Atlanta United,Right-Back,Venezuela,VEN,24,13,761,0,0,0,0,0.1,0.3,10,9,5,1,1,8,12,0,1,0,0,0.825,12.183333333333334,300000,5769
+Ronaldo Cisneros,Atlanta United,Centre-Forward,Mexico,MEX,25,28,1725,7,1,0,0,8.4,1.3,4,1,2,1,2,10,3,6,0,3,0,0.778,26.099999999999998,244000,4692
+Ruan,Orlando City,Right-Back,Brazil,BRA,26,31,2454,2,1,0,0,0.7,3.3,34,20,23,4,4,9,18,3,0,5,0,0.792,26.016666666666666,360000,6923
+Ruben Gabrielsen,Austin FC,Centre-Back,Norway,NOR,29,33,2737,2,1,0,0,1.1,0.9,14,10,10,1,23,6,32,0,0,2,0,0.885,39.45,950000,18269
+Rubio Rubin,Real Salt Lake,Centre-Forward,Guatemala,GUA,25,23,866,1,0,0,0,2.1,0.3,0,0,0,0,2,1,1,1,0,0,0,0.782,6.877777777777778,510000,9808
+Rudy Camacho,CF Montréal,Centre-Back,France,FRA,30,28,2478,1,0,0,0,0.8,0.6,30,19,21,2,5,8,51,3,0,5,0,0.8809999999999999,37.894444444444446,500000,9615
+Russell Canouse,D.C. United,Central Midfield,United States,USA,26,18,1192,1,1,0,0,0.7,0.7,30,19,12,1,6,12,17,0,0,1,0,0.779,20.244444444444444,515000,9904
+Russell Teibert,Vancouver Whitecaps FC,Defensive Midfield,Canada,CAN,29,29,2035,0,0,0,0,0.6,0.5,26,19,12,4,2,15,33,0,1,2,0,0.805,25.611111111111114,400000,7692
+Ryan Gauld,Vancouver Whitecaps FC,Attacking Midfield,Scotland,SCO,26,28,2237,8,5,2,2,7.6,5.1,40,19,21,5,3,31,24,6,0,11,0,0.723,53.900000000000006,2160000,41538
+Ryan Hollingshead,Los Angeles FC,Left-Back,United States,USA,30,30,1930,6,1,0,0,2.8,1.1,51,32,29,9,7,17,32,5,1,6,0,0.813,39.15555555555556,393750,7572
+Ryan Meara,New York Red Bulls,Goalkeeper,United States,USA,31,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.87,1.1111111111111112,324000,6231
+Ryan Raposo,Vancouver Whitecaps FC,Right Winger,Canada,CAN,22,30,1440,2,1,0,0,1.2,1.6,17,11,8,4,6,7,23,2,0,4,0,0.741,24.250000000000004,100000,1923
+Ryan Sailor,Inter Miami,Centre-Back,United States,USA,23,22,1521,0,0,0,0,0.9,0,23,10,16,0,15,12,18,0,0,0,0,0.871,23.488888888888887,65500,1260
+Ryan Spaulding,New England Revolution,Left-Back,United States,USA,23,7,263,0,0,0,0,0.1,0,5,3,3,1,1,4,3,0,0,0,0,0.731,4.977777777777779,65500,1260
+Rémi Walter,Sporting Kansas City,Central Midfield,France,FRA,26,34,2972,3,1,0,0,1.1,2.4,45,24,15,5,5,21,32,2,1,5,0,0.878,39.12222222222223,800000,15385
+Róbert Þorkelsson,CF Montréal,Centre-Back,Iceland,ISL,19,11,167,0,0,0,0,0,0,6,4,2,2,1,0,2,0,0,0,0,0.7609999999999999,2.677777777777778,150000,2885
+Rónald Matarrita,FC Cincinnati,Left-Back,Costa Rica,CRC,27,7,224,1,3,0,0,0.1,0.9,4,2,1,0,1,2,3,1,0,4,0,0.736,8.927777777777779,750000,14423
+Sacha Kljestan,LA Galaxy,Attacking Midfield,United States,USA,36,21,440,1,2,1,1,1.2,0.9,5,3,2,2,1,2,2,1,0,3,0,0.838,9.766666666666667,84000,1615
+Sam Junqua,Houston Dynamo,Left-Back,United States,USA,25,15,513,0,1,0,0,0,0.5,14,7,10,0,1,3,7,0,0,1,0,0.83,8.366666666666667,89513,1721
+Sam Nicholson,Colorado Rapids,Left Midfield,Scotland,SCO,27,15,831,1,0,0,0,0.7,1.4,9,5,3,2,4,4,7,1,0,1,0,0.6759999999999999,10.933333333333334,300000,5769
+Sami Guediri,D.C. United,Left-Back,United States,USA,24,13,803,0,0,0,0,0.1,0.6,24,16,13,7,5,15,10,0,1,0,0,0.733,15.533333333333333,84000,1615
+Samuel Adeniran,Seattle Sounders,Centre-Forward,United States,USA,23,2,73,0,0,0,0,0.1,0,1,1,0,1,1,2,1,0,0,0,0,0.563,2.75,65500,1260
+Samuel Afriyie Owusu,New York City FC,Centre-Back,Ghana,GHA,21,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.0611111111111111,NA,NA
+Samuel Grandsir,LA Galaxy,Right Winger,France,FRA,25,33,1611,3,5,0,0,3.5,3.9,29,20,10,1,1,10,8,4,0,6,0,0.7709999999999999,27.044444444444444,900000,17308
+Samuel Piette,CF Montréal,Defensive Midfield,Canada,CAN,27,26,1490,0,3,0,0,0.3,1.4,38,22,10,5,3,18,14,0,1,4,0,0.893,24.727777777777778,400000,7692
+Santiago Moreno,Portland Timbers,Right Winger,Colombia,COL,21,34,2428,7,6,3,3,6.8,6.2,57,31,27,15,4,22,31,6,4,16,0,0.7609999999999999,54.74444444444444,300000,5769
+Santiago Rodríguez,New York City FC,Attacking Midfield,Uruguay,URU,22,32,2461,4,10,0,0,7,8.3,40,25,15,7,0,26,14,9,2,16,0,0.7909999999999999,51.87222222222222,612500,11779
+Santiago Sosa,Atlanta United,Defensive Midfield,Argentina,ARG,22,21,1409,1,0,0,0,1.2,0.9,31,17,17,2,5,15,31,1,0,1,0,0.846,29.12222222222222,525000,10096
+Scott Caldwell,Real Salt Lake,Central Midfield,United States,USA,30,26,1363,0,0,0,0,0.4,0.1,26,18,12,5,1,11,23,0,0,0,0,0.8390000000000001,18.42222222222222,200000,3846
+Sean Davis,Nashville SC,Central Midfield,United States,USA,28,34,2835,1,1,0,0,0.9,0.6,66,34,24,5,12,31,58,6,0,3,0,0.8690000000000001,50.78888888888889,637500,12260
+Sean Johnson,New York City FC,Goalkeeper,United States,USA,32,34,3060,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.7879999999999999,6.7444444444444445,550000,10577
+Sean Nealis,New York Red Bulls,Centre-Back,United States,USA,25,33,2952,0,0,0,0,1.8,0.7,50,28,36,1,17,19,43,3,0,2,0,0.728,39.84444444444445,175000,3365
+Sean Zawadzki,Columbus Crew,Central Midfield,United States,USA,21,5,289,1,0,0,0,0,0,8,3,3,1,0,5,9,0,0,0,0,0.857,8.233333333333334,84000,1615
+Sebastian Anderson,Colorado Rapids,Right-Back,United States,USA,19,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,1.0333333333333334,105000,2019
+Sebastian Berhalter,Vancouver Whitecaps FC,Central Midfield,United States,USA,20,18,1023,0,0,0,0,0.5,0.5,32,20,17,6,5,15,24,2,1,0,0,0.7390000000000001,21.922222222222224,100000,1923
+Sebastian Breza,CF Montréal,Goalkeeper,Canada,CAN,23,23,2070,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0.8,4.927777777777778,84000,1615
+Sebastian Lletget,New England Revolution,Central Midfield,United States,USA,29,29,2262,3,8,0,0,3.5,2.5999999999999996,33,22,11,9,3,16,16,2,0,10,0,0.84,36.93333333333334,900000,17308
+Sebastien Ibeagha,Los Angeles FC,Centre-Back,United States,USA,30,17,1187,0,0,0,0,0.3,0,13,11,11,0,9,5,10,0,0,0,0,0.8240000000000001,13.533333333333335,225000,4327
+Sebastián Blanco,Portland Timbers,Attacking Midfield,Argentina,ARG,33,32,1820,7,7,1,1,5.6,5.4,12,7,3,5,1,7,5,5,1,13,0,0.667,35.05,1340000,25769
+Sebastián Driussi,Austin FC,Second Striker,Argentina,ARG,25,34,2876,22,5,4,4,16,4.5,29,19,7,7,4,28,11,10,3,19,1,0.765,71.75,2200000,42308
+Sebastián Ferreira,Houston Dynamo,Centre-Forward,Paraguay,PAR,23,31,2318,13,3,2,3,11,1.7,19,10,4,3,0,12,7,5,1,5,0,0.722,39.21666666666666,1600000,30769
+Serge Ngoma,New York Red Bulls,Right Winger,United States,USA,16,7,116,2,0,0,0,0.4,0,2,1,1,1,0,6,3,0,1,1,1,0.619,7.472222222222222,65500,1260
+Sergio Córdova,Real Salt Lake,Centre-Forward,Venezuela,VEN,24,33,2274,9,1,0,0,10.3,1.8,24,16,7,5,3,13,5,6,1,7,0,0.7040000000000001,33.26111111111111,600000,11538
+Sergio Oregel,Chicago Fire,Central Midfield,United States,USA,16,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.833,1.0277777777777777,65500,1260
+Sergio Ruiz,Charlotte FC,Central Midfield,Spain,ESP,27,18,723,1,2,0,0,0.9,1.9,11,8,6,0,0,5,8,1,0,5,0,0.84,13.805555555555555,NA,NA
+Sergio Santos Gomes,Philadelphia Union,Centre-Forward,Brazil,BRA,27,19,746,1,3,0,0,3.2,3.4,19,13,3,8,0,7,1,1,2,5,0,0.6425,15.53888888888889,850000,16346
+Shane O'Neill,Toronto FC,Centre-Back,United States,USA,28,26,1899,0,1,0,0,0.1,0.8,37,20,22,3,20,14,30,1,0,1,0,0.8390000000000001,33.3,320000,6154
+Shaq Moore,Nashville SC,NA,United States,USA,25,11,888,0,1,0,0,0.4,0.8,29,17,20,1,4,2,12,2,1,4,0,0.72,12.127777777777778,700000,13462
+Shea Salinas,San Jose Earthquakes,Left Winger,United States,USA,35,13,203,1,0,0,0,0.3,0.1,10,6,4,1,1,1,1,2,0,2,0,0.745,4.055555555555556,280000,5385
+Siad Haji,San Jose Earthquakes,Right Winger,Somalia,SOM,22,2,14,0,0,0,0,0,0.1,0,0,0,0,0,1,0,0,0,0,0,0.909,1.5555555555555556,120000,2308
+Silvester van der Water,Orlando City,Right Winger,Netherlands,NED,25,4,41,0,0,0,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0.625,1.8555555555555556,NA,NA
+Simon Becher,Vancouver Whitecaps FC,Centre-Forward,United States,USA,22,1,9,1,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,2.3055555555555554,NA,NA
+Sofiane Djeffal,D.C. United,Central Midfield,France,FRA,22,28,1686,0,1,0,0,0.5,0.5,45,27,17,6,8,21,27,2,0,4,0,0.805,28.85,65500,1260
+Spencer Richey,Chicago Fire,Goalkeeper,United States,USA,29,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.406,1.0722222222222222,132000,2538
+Stanislav Ivanov,Chicago Fire,Right Winger,Bulgaria,BUL,22,15,882,1,0,0,0,0.9,1.6,5,5,3,0,1,8,2,2,0,0,0,0.7440000000000001,9.933333333333334,300000,5769
+Stefan Cleveland,Seattle Sounders,Goalkeeper,United States,USA,27,7,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.772,1.9944444444444445,150000,2885
+Stefan Frei,Seattle Sounders,Goalkeeper,Switzerland,SUI,35,27,2430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.77,4.733333333333333,500000,9615
+Steffen Yeates,Toronto FC,NA,Trinidad and Tobago,TRI,22,2,33,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.769,1.0555555555555556,NA,NA
+Steve Birnbaum,D.C. United,Centre-Back,United States,USA,31,32,2849,2,0,0,0,1.7,1.1,23,12,14,1,24,9,61,6,0,2,0,0.815,49.777777777777786,750000,14423
+Steve Clark,Houston Dynamo,Goalkeeper,United States,USA,35,33,2905,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0.79,6.272222222222222,560000,10769
+Steven Beitashour,Colorado Rapids,Right-Back,Iran,IRN,34,19,1313,0,2,0,0,0.2,0.7,22,9,10,5,4,7,16,2,0,3,0,0.8009999999999999,17.566666666666666,150000,2885
+Steven Moreira,Columbus Crew,Right-Back,Cape Verde,CPV,27,32,2783,1,5,0,0,0.7,3.1,48,29,28,2,7,26,26,1,0,13,0,0.813,42.611111111111114,550000,10577
+Steven Sserwadda,New York Red Bulls,Central Midfield,Uganda,UGA,19,2,29,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.7140000000000001,1.4555555555555555,65500,1260
+Stuart Findlay,Philadelphia Union,Centre-Back,Scotland,SCO,26,4,360,0,0,0,0,0.2,0.1,0,0,0,0,1,0,3,0,0,0,0,0.758,3.4222222222222225,NA,NA
+Sunusi Ibrahim,CF Montréal,Centre-Forward,Nigeria,NGA,19,6,236,0,0,0,0,0.2,0.2,1,1,0,0,0,1,0,0,0,1,0,0.701,2.061111111111111,200000,3846
+Séga Coulibaly,LA Galaxy,Centre-Back,France,FRA,25,27,2148,1,0,0,0,1.6,0.1,35,21,25,0,14,5,28,2,0,1,0,0.915,29.616666666666667,420000,8077
+Talles Magno,New York City FC,Left Winger,Brazil,BRA,19,34,2591,7,8,1,1,8.8,4.6,35,17,13,3,5,26,11,7,1,17,0,0.799,50.46666666666667,950000,18269
+Tanner Beason,San Jose Earthquakes,Centre-Back,United States,USA,24,28,2244,0,0,0,0,0.7,0.1,38,17,25,2,23,11,45,0,1,1,0,0.8640000000000001,39.77222222222222,200000,3846
+Tate Schmitt,Real Salt Lake,Left-Back,United States,USA,24,14,860,2,1,0,0,0.6,0.4,17,10,6,2,1,11,20,0,0,1,0,0.665,19.37777777777778,92500,1779
+Taxiarchis Fountas,D.C. United,Second Striker,Greece,GRE,26,21,1467,12,1,0,1,8,1.9,15,11,5,4,0,14,3,10,2,6,0,0.682,32.06111111111111,1600000,30769
+Taylor Washington,Nashville SC,Left-Back,United States,USA,28,14,601,0,1,0,0,0.1,1,3,2,1,1,2,10,9,1,0,1,0,0.716,12.733333333333334,93989,1807
+Tayvon Gray,New York City FC,Right-Back,Jamaica,JAM,19,27,1879,0,1,0,0,0.6,1.3,36,21,23,4,9,10,13,2,0,2,0,0.8009999999999999,21.522222222222226,125000,2404
+Teal Bunbury,Nashville SC,Centre-Forward,United States,USA,31,17,654,5,0,0,0,3.9,0.7,2,1,0,0,0,5,6,6,0,1,0,0.701,15.677777777777777,400000,7692
+Teenage Hadebe,Houston Dynamo,Centre-Back,Zimbabwe,ZIM,26,22,1810,2,0,0,0,1.6,1.2,30,12,20,0,21,2,50,5,2,1,0,0.884,40.62777777777778,1014000,19500
+Tega Ikoba,Portland Timbers,Centre-Forward,United States,USA,18,2,23,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1.1111111111111112,85444,1643
+Tesho Akindele,Orlando City,Centre-Forward,Canada,CAN,29,27,610,3,0,0,0,2.4,0.6,12,4,6,3,2,9,3,2,0,1,0,0.6940000000000001,13.316666666666668,325000,6250
+Themi Antonoglou,Toronto FC,Left-Back,Canada,CAN,20,2,41,0,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0.667,1.0555555555555556,65500,1260
+Theodore Ku-Dipietro,D.C. United,Attacking Midfield,United States,USA,20,10,238,0,0,0,0,0,0.1,5,3,2,1,0,1,0,0,0,1,0,0.722,1.8611111111111112,65500,1260
+Thiago,New York City FC,Left Winger,Brazil,BRA,21,33,1405,5,2,0,0,5,2.4,31,20,10,5,0,22,8,5,1,6,1,0.804,29.916666666666668,180000,3462
+Thiago Almada,Atlanta United,Attacking Midfield,Argentina,ARG,20,29,2372,6,7,0,0,6,7.6,23,11,7,4,0,13,13,10,0,18,0,0.8170000000000001,45.66111111111111,1650000,31731
+Thiago Martins,New York City FC,Centre-Back,Brazil,BRA,26,26,2152,0,1,0,0,0.5,0.1,15,11,13,2,14,6,21,2,0,3,0,0.89,26.000000000000004,1500000,28846
+Thiaguinho,Houston Dynamo,NA,Brazil,BRA,20,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5379999999999999,1.038888888888889,310344,5968
+Thomas Hasal,Vancouver Whitecaps FC,Goalkeeper,Canada,CAN,22,17,1509,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.607,2.6444444444444444,155000,2981
+Thomas McNamara,New England Revolution,Left Winger,United States,USA,30,33,2477,4,3,0,0,2.4,1.1,61,33,26,9,13,17,20,2,1,10,0,0.857,37.06111111111111,240000,4615
+Thomas Williams,Orlando City,Centre-Back,United States,USA,17,4,181,0,0,0,0,0,0,4,0,4,0,0,0,1,0,0,0,0,0.84,1.8666666666666667,66724,1283
+Tim Melia,Sporting Kansas City,Goalkeeper,United States,USA,35,21,1852,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0.727,4.266666666666667,525000,10096
+Tim Parker,Houston Dynamo,Centre-Back,United States,USA,28,28,2252,0,0,0,0,0.9,0.2,25,15,19,0,21,5,20,0,0,1,0,0.883,26.861111111111114,1000000,19231
+Tom Barlow,New York Red Bulls,Centre-Forward,United States,USA,26,33,1097,4,0,1,1,4.7,0.4,10,5,3,3,1,6,0,2,0,1,0,0.591,13.727777777777778,175000,3365
+Tom Edwards,New York Red Bulls,Right-Back,England,ENG,23,20,1656,0,0,0,0,0.5,0.7,19,12,11,2,6,5,29,0,1,2,0,0.5770000000000001,21.27777777777778,NA,NA
+Tommy Thompson,San Jose Earthquakes,Right-Back,United States,USA,26,27,1322,1,2,0,0,1.1,0.8,23,14,12,3,4,11,21,2,0,5,0,0.84,24.116666666666667,280000,5385
+Tony Alfaro,D.C. United,Centre-Back,United States,USA,28,18,943,0,1,0,0,0.1,0,10,7,8,0,12,1,14,0,0,1,0,0.8190000000000001,15.633333333333333,89513,1721
+Tosaint Ricketts,Vancouver Whitecaps FC,Centre-Forward,Canada,CAN,34,23,450,4,1,0,0,2.5,0.2,3,3,0,0,0,3,0,1,1,2,0,0.698,10.31111111111111,84000,1615
+Tristan Blackmon,Vancouver Whitecaps FC,Right-Back,United States,USA,25,28,2134,1,0,0,0,2,0.1,27,16,21,0,20,5,32,2,0,1,0,0.799,32.166666666666664,350000,6731
+Tsiki Ntsabeleng,FC Dallas,Attacking Midfield,South Africa,RSA,23,26,840,1,0,0,0,2.3,0.6,19,12,5,0,2,9,10,1,0,4,0,0.848,15.633333333333335,65500,1260
+Tyler Blackett,FC Cincinnati,Left-Back,England,ENG,27,20,1342,0,1,0,0,0.6,1.2,10,4,8,0,8,7,9,2,0,2,0,0.8,16.416666666666668,840000,16154
+Tyler Miller,Minnesota United,Goalkeeper,United States,USA,28,3,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.732,1.3333333333333333,425000,8173
+Tyler Pasher,New York Red Bulls,Right Winger,Canada,CAN,27,17,628,2,1,NA,0,1.9,0.5,6,3,2,2,0,1,1,0,0,1,0,0.765,8.122222222222222,NA,NA
+Tyler Wolff,Atlanta United,Right Winger,United States,USA,18,5,253,0,0,0,0,0.3,0.2,3,2,0,2,0,5,2,0,0,1,0,0.716,4.594444444444445,110000,2115
+Valentín Castellanos,New York City FC,Centre-Forward,Argentina,ARG,23,17,1459,13,2,5,6,13.1,3.7,7,4,1,4,1,16,6,4,1,6,0,0.622,43.50555555555555,NA,NA
+Victor Bezerra,Chicago Fire,Centre-Forward,United States,USA,21,5,47,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.7140000000000001,1.0555555555555556,84000,1615
+Victor Pálsson,D.C. United,Defensive Midfield,Iceland,ISL,30,10,872,0,0,0,0,0.8,0.1,21,9,11,1,5,9,7,1,1,0,0,0.772,12.011111111111111,850000,16346
+Victor Ulloa,Inter Miami,Defensive Midfield,United States,USA,29,19,367,0,1,0,0,0.1,0.7,10,7,3,0,1,3,3,0,0,1,0,0.813,6.544444444444444,250000,4808
+Victor Wanyama,CF Montréal,Defensive Midfield,Kenya,KEN,30,32,2633,1,3,0,0,3,2.9,57,33,17,3,4,25,28,5,0,6,0,0.86,41.455555555555556,2400000,46154
+Vuk Latinovich,New York City FC,Centre-Back,United States,USA,24,5,254,0,0,0,0,0.1,0.1,3,1,3,0,0,1,10,0,0,0,0,0.845,6.53888888888889,85444,1643
+Víctor Vázquez,LA Galaxy,Attacking Midfield,Spain,ESP,35,26,1159,2,3,0,0,1.2,3.2,9,3,2,0,0,6,8,1,0,7,0,0.8440000000000001,20.294444444444444,440000,8462
+Walker Zimmerman,Nashville SC,Centre-Back,United States,USA,28,30,2521,4,1,0,0,3.8,2.6,36,16,23,0,18,10,43,3,0,5,0,0.8320000000000001,47.53888888888889,2088235,40158
+Washington Corozo,Austin FC,Left Winger,Ecuador,ECU,23,3,51,0,1,0,0,0.2,0.6,3,1,3,0,0,1,0,1,0,1,0,0.833,3.283333333333333,300000,5769
+Wikelman Carmona,New York Red Bulls,Attacking Midfield,Venezuela,VEN,18,2,43,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0.867,2.2722222222222226,66724,1283
+Wil Trapp,Minnesota United,Defensive Midfield,United States,USA,29,27,2127,0,0,0,0,0.3,0.5,58,39,26,2,5,36,39,2,1,4,0,0.8640000000000001,39.49444444444444,784875,15094
+Wilder Cartagena,Orlando City,Defensive Midfield,Peru,PER,27,8,331,0,0,0,0,0.2,0.1,16,8,7,2,0,5,5,0,1,0,0,0.851,6.155555555555555,240000,4615
+Wilfrid Kaptoum,New England Revolution,Central Midfield,Cameroon,CMR,25,21,1066,1,0,0,0,0.7,0.1,25,15,13,3,6,6,16,2,2,1,0,0.851,16.483333333333334,525000,10096
+Will Bruin,Seattle Sounders,Centre-Forward,United States,USA,32,24,868,3,0,0,0,2.8,0.4,6,4,0,2,0,1,2,0,0,1,0,0.769,9.28888888888889,260000,5000
+Will Richmond,San Jose Earthquakes,Right Winger,United States,USA,21,2,45,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.636,1.0777777777777777,65500,1260
+William Agada,Sporting Kansas City,Centre-Forward,Nigeria,NGA,22,12,918,8,2,0,0,7.3,0.5,6,5,2,2,2,0,1,5,0,2,0,0.7809999999999999,20.655555555555555,NA,NA
+William Sands,Columbus Crew,Left-Back,United States,USA,21,12,639,0,1,0,0,0.1,0.1,13,5,8,1,2,4,7,1,0,1,0,0.787,8.672222222222222,NA,NA
+William Yarbrough,Colorado Rapids,Goalkeeper,United States,USA,32,34,3014,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0.752,5.411111111111111,300000,5769
+Wyatt Omsberg,Chicago Fire,Centre-Back,United States,USA,26,14,1259,1,0,0,0,1.6,0.3,18,11,13,0,11,8,27,1,0,0,0,0.726,24.772222222222222,140000,2692
+Xavier Arreaga,Seattle Sounders,Centre-Back,Ecuador,ECU,27,27,2166,1,0,0,0,1.1,0.9,27,18,22,0,14,8,45,2,1,0,0,0.8809999999999999,36.82222222222222,700000,13462
+Xherdan Shaqiri,Chicago Fire,Right Winger,Switzerland,SUI,30,29,2252,7,7,4,4,6.6,7.6,18,11,3,9,0,3,3,4,0,13,0,0.6920000000000001,36.66666666666667,7350000,141346
+Yaw Yeboah,Columbus Crew,Right Winger,Ghana,GHA,24,19,791,0,1,0,0,1.8,2.2,20,11,10,2,0,11,2,1,1,1,0,0.731,12.183333333333332,600000,11538
+Yeimar Gómez Andrade,Seattle Sounders,Centre-Back,Colombia,COL,29,28,2314,1,0,0,0,1.4,0.2,56,29,44,0,16,18,75,2,2,2,0,0.8420000000000001,53.57777777777778,650004,12500
+Yimmi Chará,Portland Timbers,Right Winger,Colombia,COL,30,34,2760,4,3,0,0,5,3.6,43,31,16,9,1,18,23,3,1,9,0,0.828,39.861111111111114,1500000,28846
+Yordy Reyna,Charlotte FC,Centre-Forward,Peru,PER,28,19,845,3,3,0,0,2.2,2,12,4,6,1,0,5,6,2,1,7,0,0.7490000000000001,16.91111111111111,797500,15337
+Yuya Kubo,FC Cincinnati,Centre-Forward,Japan,JPN,28,27,1349,1,1,0,0,0.9,2.1,56,32,27,12,4,20,20,1,1,3,1,0.82,26.933333333333334,1091000,20981
+Zac MacMath,Real Salt Lake,Goalkeeper,United States,USA,30,34,3060,0,0,0,0,0.1,0,0,0,0,0,0,0,1,0,0,0,0,0.5820000000000001,5.45,200000,3846
+Zac McGraw,Portland Timbers,Centre-Back,Canada,CAN,24,22,1076,1,0,0,0,1.7,0,16,10,10,0,9,4,29,1,0,1,0,0.81,22.511111111111113,84000,1615
+Zach Ryan,New York Red Bulls,Centre-Forward,United States,USA,23,6,43,0,0,0,0,0.3,0.1,1,0,1,0,0,0,1,0,0,0,0,0.75,1.8666666666666665,NA,NA
+Zachary Brault-Guillard,CF Montréal,Right-Back,Canada,CAN,23,18,629,4,2,0,0,1.2,1.6,9,6,6,0,2,7,8,0,0,5,0,0.789,18.27777777777778,275000,5288
+Zarek Valentin,Houston Dynamo,Right-Back,Puerto Rico,PUR,30,5,371,0,0,0,0,0,0,7,3,5,1,3,1,5,0,0,0,0,0.821,5.666666666666666,260000,5000
+Zeca,Houston Dynamo,Left-Back,Brazil,BRA,27,20,1133,0,1,0,0,0.1,1,30,15,20,3,6,14,8,0,1,1,0,0.807,17.761111111111113,218182,4196
+Zico Bailey,FC Cincinnati,Right-Back,Philippines,PHI,21,3,80,0,0,0,0,0,0,4,2,3,1,0,0,3,0,0,0,0,0.778,2.3555555555555556,84000,1615
+Zorhan Bassong,CF Montréal,Left-Back,Canada,CAN,22,10,188,0,0,0,0,0.1,0.3,0,0,0,0,1,1,2,0,0,0,0,0.7829999999999999,3.522222222222222,125000,2404
+Álvaro Barreal,FC Cincinnati,Right Winger,Argentina,ARG,21,32,2199,5,5,0,0,3,4.5,56,25,30,5,7,36,20,5,1,15,0,0.725,48.57222222222222,350000,6731
+Þorleifur Úlfarsson,Houston Dynamo,Attacking Midfield,Iceland,ISL,21,31,1202,4,1,0,0,5.6,0.8,13,6,4,4,3,5,4,2,0,2,0,0.6920000000000001,18.1,65500,1260
+Đorđe Petrović,New England Revolution,Goalkeeper,Serbia,SRB,22,21,1890,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0.7,3.566666666666667,225000,4327
+Žan Kolmanič,Austin FC,Left-Back,Slovenia,SVN,21,21,1070,0,2,0,0,0.2,1.8,16,11,10,2,1,10,11,0,0,1,0,0.742,17.083333333333336,300000,5769
+Bode Hidalgo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,0,0,2,0,0,0,1,0,0.679,NA,NA,NA
