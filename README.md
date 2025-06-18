@@ -1,5 +1,5 @@
 # mls-roster-construction-considerations
-Statistical analysis of 2022 Major League Soccer player performance data with the goal of identifying trends and relevant factors in roster construction.
+Statistical analysis of 2022 Major League Soccer player performance data with the goal of identifying trends and relevant factors in roster construction. Primarily using ggplot.
 
 Background, Motivations, and Data Source:
 Major League Soccer, the first division in United States and Canadian professional soccer, has grown from 20 teams in 2015 to 30 teams by the start of the 2025 season. This rapid expansion, cheered on by ever-growing fan groups, has coincided with a 20% increase in international players between 2012 and 2022, with 82+ nations now represented. Out of the international players, over 50% of them came from countries in Latin America. 
@@ -12,3 +12,6 @@ Latin America (particularly South America) is known for their world-class offens
 When teams are choosing how to allocate their international roster spots it would be important for them to understand the investigated salary trends. Teams might need to offer a more competitive contract to Latin American attackers and wingers sooner than they would with player from the US and Canada. Identifying these salary trends ahead of time could also help teams anticipate and plan for their future salary allocations prior to contract negotiation.
 The discrepancy in pay between young players from the Americas could be attributed to player marketability. Brazil has an international reputation for producing elite players (Neymar, Pelé, Ronaldinho, etc.) so it is not unlikely that this reputation influences how much teams are willing to pay Brazilian players. Teams might be hoping to push ticket sales by acquiring a player with a pre-established reputation and/or banking on the history of Brazilian excellence and investing in a player who hasn’t reached their full potential yet hoping for a future star.
 This analysis provides a useful entry point for more in-depth exploration of considerations for roster construction in the MLS; however, it is important to note that this data lacks specific pieces of context such as how different players were obtained, full contract details, advanced analytics, etc. Because of the limited scope, it would be hasty to make decisions based on the trends identified here. Obtaining additional data to explore further and gain a more complete understanding would be necessary prior to applying these findings in a professional setting.
+
+Packages used:
+worldfootballR, tidyverse, rnaturalearth, ggsoccer, kable, kableExtra, ggrepel, scales, patchwork, ggradar
